@@ -181,10 +181,9 @@
           alt="Webpack"
       /></a>
     </td>
+    <td></td>
+    <td></td>
   </tr>
-</table>
-
-<table>
   <tr>
     <td>
       <h4>Backend</h4>
