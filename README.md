@@ -4,7 +4,7 @@
     href="https://www.github.com/carlos-algms"
     target="_blank"
     rel="noreferrer"
-    align="right"
+    style="float: right"
   >
     <img
       src="https://img.shields.io/github/followers/carlos-algms?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917"
