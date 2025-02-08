@@ -189,6 +189,13 @@
 <table>
   <tr>
     <td>
+      <h4>Cloud</h4>
+    </td>
+
+    <td>
+      <h4>OS</h4>
+    </td>
+    <td>
       <h4>Backend</h4>
       <a href="https://www.php.net/" target="_blank" rel="noreferrer" title="PHP"
         ><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP"
@@ -228,14 +235,6 @@
           height="36"
           alt="Wordpress"
       /></a>
-    </td>
-
-    <td>
-      <h4>Cloud</h4>
-    </td>
-
-    <td>
-      <h4>OS</h4>
     </td>
   </tr>
 </table>
