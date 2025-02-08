@@ -183,10 +183,9 @@
         /></a>
       </p>
     </td>
+    <td>&nbsp;</td>
   </tr>
 </table>
-
-<p>&nbsp;</p>
 
 <table>
   <tr>
@@ -229,38 +228,6 @@
           width="36"
           height="36"
           alt="Wordpress"
-      /></a>
-    </td>
-
-    <td>
-      <h4>Cloud</h4>
-      <a href="https://www.docker.com/" target="_blank" rel="noreferrer" title="Docker"
-        ><img
-          src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg"
-          width="36"
-          height="36"
-          alt="Docker"
-      /></a>
-      <a href="https://cloud.google.com/" target="_blank" rel="noreferrer" title="Google Cloud"
-        ><img
-          src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg"
-          width="36"
-          height="36"
-          alt="Google Cloud"
-      /></a>
-      <a href="https://aws.amazon.com" target="_blank" rel="noreferrer" title="Amazon Web Services"
-        ><img
-          src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws.svg"
-          width="36"
-          height="36"
-          alt="Amazon Web Services"
-      /></a>
-      <a href="https://www.digitalocean.com" target="_blank" rel="noreferrer" title="Digital Ocean"
-        ><img
-          src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/digitalocean-colored.svg"
-          width="36"
-          height="36"
-          alt="Digital Ocean"
       /></a>
     </td>
   </tr>
