@@ -186,7 +186,7 @@
   </tr>
 </table>
 
-<br />
+<p>&nbsp;</p>
 
 <table>
   <tr>
