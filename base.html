@@ -182,12 +182,6 @@
       /></a>
     </td>
   </tr>
-  <tr>
-    <td>cloud</td>
-
-    <td>others</td>
-    <td></td>
-  </tr>
 </table>
 
 <p>&nbsp;</p>
