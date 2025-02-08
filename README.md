@@ -92,8 +92,8 @@
 <table>
   <tbody>
     <tr>
-      <td>
-        <h4>Frontend</h4>
+      <td colspan="2">
+        <b>Frontend</b>
         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"
           ><img
             src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg"
@@ -182,12 +182,10 @@
             alt="Webpack"
         /></a>
       </td>
-      <td></td>
-      <td></td>
     </tr>
     <tr>
       <td>
-        <h4>Backend</h4>
+        <b>Backend</b>
         <a href="https://www.php.net/" target="_blank" rel="noreferrer" title="PHP"
           ><img
             src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg"
@@ -231,8 +229,59 @@
             alt="Wordpress"
         /></a>
       </td>
-      <td></td>
-      <td></td>
+
+      <td>
+        <b>Cloud</b>
+        <a href="https://www.docker.com/" target="_blank" rel="noreferrer" title="Docker"
+          ><img
+            src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg"
+            width="36"
+            height="36"
+            alt="Docker"
+        /></a>
+        <a href="https://cloud.google.com/" target="_blank" rel="noreferrer" title="Google Cloud"
+          ><img
+            src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg"
+            width="36"
+            height="36"
+            alt="Google Cloud"
+        /></a>
+        <a href="https://aws.amazon.com" target="_blank" rel="noreferrer" title="Amazon Web Services"
+          ><img
+            src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws.svg"
+            width="36"
+            height="36"
+            alt="Amazon Web Services"
+        /></a>
+        <a href="https://www.digitalocean.com" target="_blank" rel="noreferrer" title="Digital Ocean"
+          ><img
+            src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/digitalocean-colored.svg"
+            width="36"
+            height="36"
+            alt="Digital Ocean"
+        /></a>
+      </td>
+
+      <td>
+        <b>OS</b>
+        <a href="https://www.linux.org" target="_blank" rel="noreferrer" title="Linux"
+          ><img
+            src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg"
+            width="36"
+            height="36"
+            alt="Linux"
+        /></a>
+        <a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer" title="Raspberry Pi"
+          ><img
+            src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/raspberrypi-colored.svg"
+            width="36"
+            height="36"
+            alt="Raspberry Pi"
+        /></a>
+        <a href="https://apple.com" target="_blank" rel="noreferrer" title="MacOS"
+          ><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos.svg" width="36" height="36" alt="MacOS"
+        /></a>
+      </td>
     </tr>
   </tbody>
 </table>
