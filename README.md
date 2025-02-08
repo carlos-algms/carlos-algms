@@ -183,7 +183,6 @@
         /></a>
       </p>
     </td>
-    <td>&nbsp;</td>
   </tr>
 </table>
 
@@ -229,6 +228,14 @@
           height="36"
           alt="Wordpress"
       /></a>
+    </td>
+
+    <td>
+      <h4>Cloud</h4>
+    </td>
+
+    <td>
+      <h4>OS</h4>
     </td>
   </tr>
 </table>
