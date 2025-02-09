@@ -13,12 +13,13 @@ import (
 )
 
 type Issue struct {
-	Title         string `json:"title"`
-	URL           string `json:"html_url"`
-	RepositoryURL string `json:"repository_url"`
-	Number        int    `json:"number"`
-	State         string `json:"state"`
-	Reason        string `json:"state_reason"`
+	Title          string `json:"title"`
+	URL            string `json:"html_url"`
+	RepositoryURL  string `json:"repository_url"`
+	RepositoryPath string
+	Number         int    `json:"number"`
+	State          string `json:"state"`
+	Reason         string `json:"state_reason"`
 }
 
 func SearchIssuesAndPrs(username string) ([]Issue, []Issue, error) {
@@ -103,6 +104,7 @@ func SearchGitHub(username string, searchType SearchType) ([]Issue, error) {
 	re := regexp.MustCompile(`/pull/.*`)
 	for i := range result.Items {
 		result.Items[i].RepositoryURL = re.ReplaceAllString(result.Items[i].URL, "")
+		result.Items[i].RepositoryPath = strings.ReplaceAll(result.Items[i].RepositoryURL, "https://github.com/", "")
 	}
 
 	log.Printf("Fetched %d %ss", len(result.Items), searchType)
