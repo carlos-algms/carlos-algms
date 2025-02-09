@@ -10,13 +10,14 @@
 <p>
   Developing software since 2005 👴🏻I saw the rise and fall of many technologies.<br />
 
-  Currently, I'm focused on Frontend with React and TypeScript, but I worked as full-stack developer my whole career.<br />
+Currently, I'm focused on Frontend with React and TypeScript, but I worked as full-stack developer my whole career.<br />
 
-  Besides React, I have experience with Angular, Vue, JQuery, and vanilla JavaScript.<br />
+Besides React, I have experience with Angular, Vue, JQuery, and vanilla JavaScript.<br />
 
-  I started with PHP and CodeIgniter, then Laravel, and now NodeJS.<br />
+I started with PHP and CodeIgniter, then Laravel, and now NodeJS.<br />
 
-  But I'm curious, so I learned Java, Python, Shell Script, and most recently, Go, I'm not locked in a single language or framework.
+But I'm curious, so I learned Java, Python, Shell Script, and most recently, Go, I'm not locked in a single language or framework.
+
 </p>
 
 <ul>
@@ -255,3 +256,7 @@
     alt="GitHub Commits Graph"
   />
 </a>
+
+<p>
+  https://github.com/simonwep/viselect/issues/236
+</p>
