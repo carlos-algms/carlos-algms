@@ -1,0 +1,13 @@
+{
+  "name": "carlos-algms",
+  "version": "1.0.0",
+  "description": "Profile repository",
+  "scripts": {},
+  "keywords": [],
+  "author": "Carlos Algms",
+  "license": "ISC",
+  "devDependencies": {
+    "prettier": "^3.5.0",
+    "prettier-plugin-go-template": "^0.0.15"
+  }
+}

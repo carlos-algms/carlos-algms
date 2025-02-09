@@ -9,11 +9,32 @@
   "trailingComma": "all",
   "bracketSameLine": false,
   "proseWrap": "never",
+  "plugins": ["prettier-plugin-go-template"],
   "overrides": [
     {
       "files": "*.html",
       "options": {
         "printWidth": 160
+      }
+    },
+    {
+      "files": "*.svg",
+      "options": {
+        "printWidth": 160,
+        "parser": "html"
+      }
+    },
+    {
+      "files": ["**/templates/**/*.html"],
+      "options": {
+        "parser": "go-template"
+      }
+    },
+    {
+      "files": ["README.md"],
+      "options": {
+        "parser": "html",
+        "proseWrap": "always"
       }
     }
   ]
