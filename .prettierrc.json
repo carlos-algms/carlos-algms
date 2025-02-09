@@ -29,6 +29,13 @@
       "options": {
         "parser": "go-template"
       }
+    },
+    {
+      "files": ["README.md"],
+      "options": {
+        "parser": "html",
+        "proseWrap": "always"
+      }
     }
   ]
 }
