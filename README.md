@@ -248,7 +248,7 @@
         <span>#318</span>
       </div>
       <div>
-        https://api.github.com/repos/pmizio/typescript-tools.nvim
+        https://github.com/pmizio/typescript-tools.nvim
       </div>
     </li>
     <li>
@@ -264,7 +264,7 @@
         <span>#239</span>
       </div>
       <div>
-        https://api.github.com/repos/simonwep/viselect
+        https://github.com/simonwep/viselect
       </div>
     </li>
     <li>
@@ -280,7 +280,7 @@
         <span>#290</span>
       </div>
       <div>
-        https://api.github.com/repos/tree-sitter/tree-sitter-typescript
+        https://github.com/tree-sitter/tree-sitter-typescript
       </div>
     </li>
     <li>
@@ -296,7 +296,7 @@
         <span>#498</span>
       </div>
       <div>
-        https://api.github.com/repos/pwntester/octo.nvim
+        https://github.com/pwntester/octo.nvim
       </div>
     </li>
     <li>
@@ -312,7 +312,7 @@
         <span>#416</span>
       </div>
       <div>
-        https://api.github.com/repos/nvimdev/dashboard-nvim
+        https://github.com/nvimdev/dashboard-nvim
       </div>
     </li>
     <li>
@@ -328,7 +328,7 @@
         <span>#1059</span>
       </div>
       <div>
-        https://api.github.com/repos/blakadder/zigbee
+        https://github.com/blakadder/zigbee
       </div>
     </li>
     <li>
@@ -344,7 +344,7 @@
         <span>#1349</span>
       </div>
       <div>
-        https://api.github.com/repos/blakadder/templates
+        https://github.com/blakadder/templates
       </div>
     </li>
     <li>
@@ -360,7 +360,7 @@
         <span>#97</span>
       </div>
       <div>
-        https://api.github.com/repos/nfl/react-gpt
+        https://github.com/nfl/react-gpt
       </div>
     </li>
     <li>
@@ -376,7 +376,7 @@
         <span>#460</span>
       </div>
       <div>
-        https://api.github.com/repos/hexojs/site
+        https://github.com/hexojs/site
       </div>
     </li>
 </ul>

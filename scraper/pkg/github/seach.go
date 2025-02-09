@@ -7,6 +7,7 @@ import (
 	"io"
 	"log"
 	"net/http"
+	"regexp"
 	"strings"
 	"sync"
 )
@@ -97,6 +98,11 @@ func SearchGitHub(username string, searchType SearchType) ([]Issue, error) {
 
 	if err := json.NewDecoder(resp.Body).Decode(&result); err != nil {
 		return nil, err
+	}
+
+	re := regexp.MustCompile(`/pull/.*`)
+	for i := range result.Items {
+		result.Items[i].RepositoryURL = re.ReplaceAllString(result.Items[i].URL, "")
 	}
 
 	log.Printf("Fetched %d %ss", len(result.Items), searchType)
