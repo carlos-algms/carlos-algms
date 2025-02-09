@@ -1,0 +1,28 @@
+{{ range .Issues }}
+  <p>
+    <a href="{{ .URL }}">
+      {{ if eq .State "closed" }}
+        <img
+          src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/scrape-github/images/issue-closed.svg"
+          width="20"
+          height="20"
+          alt="pr closed"
+          title="PR closed"
+        />
+      {{ else }}
+        <img
+          src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/scrape-github/images/issue-open.svg"
+          width="20"
+          height="20"
+          alt="pr open"
+          title="PR open"
+        />
+      {{ end }}
+      #{{ .Number }}
+    </a>
+    <b>{{ .Title }}</b>
+    <a href="{{ .RepositoryURL }}">
+      {{ .RepositoryPath }}
+    </a>
+  </p>
+{{ end }}

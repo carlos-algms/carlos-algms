@@ -356,7 +356,167 @@
     </a>
   </p>
 <hr />
-<h3>Issues</h3>
+<h3>Issues opened</h3>
+  <p>
+    <a href="https://github.com/mistweaverco/kulala.nvim/issues/347">
+        <img
+          src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/scrape-github/images/issue-closed.svg"
+          width="20"
+          height="20"
+          alt="pr closed"
+          title="PR closed"
+        />
+      #347
+    </a>
+    <b>inspect not working: 'width' key must be a positive Integer</b>
+    <a href="https://github.com/mistweaverco/kulala.nvim/issues/347">
+      mistweaverco/kulala.nvim/issues/347
+    </a>
+  </p>
+  <p>
+    <a href="https://github.com/mistweaverco/kulala-ls/issues/6">
+        <img
+          src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/scrape-github/images/issue-open.svg"
+          width="20"
+          height="20"
+          alt="pr open"
+          title="PR open"
+        />
+      #6
+    </a>
+    <b>Will it be available via Mason? To install in NeoVim</b>
+    <a href="https://github.com/mistweaverco/kulala-ls/issues/6">
+      mistweaverco/kulala-ls/issues/6
+    </a>
+  </p>
+  <p>
+    <a href="https://github.com/sindrets/diffview.nvim/issues/542">
+        <img
+          src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/scrape-github/images/issue-open.svg"
+          width="20"
+          height="20"
+          alt="pr open"
+          title="PR open"
+        />
+      #542
+    </a>
+    <b>Consider showing the branch name in the files panel? </b>
+    <a href="https://github.com/sindrets/diffview.nvim/issues/542">
+      sindrets/diffview.nvim/issues/542
+    </a>
+  </p>
+  <p>
+    <a href="https://github.com/pmizio/typescript-tools.nvim/issues/317">
+        <img
+          src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/scrape-github/images/issue-closed.svg"
+          width="20"
+          height="20"
+          alt="pr closed"
+          title="PR closed"
+        />
+      #317
+    </a>
+    <b>Attempt to call `sanitize` a nil value - It seems lsp-config dropped it from `utils.path.sanitize` </b>
+    <a href="https://github.com/pmizio/typescript-tools.nvim/issues/317">
+      pmizio/typescript-tools.nvim/issues/317
+    </a>
+  </p>
+  <p>
+    <a href="https://github.com/simonwep/viselect/issues/238">
+        <img
+          src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/scrape-github/images/issue-closed.svg"
+          width="20"
+          height="20"
+          alt="pr closed"
+          title="PR closed"
+        />
+      #238
+    </a>
+    <b>Unselecting the last element doesn't trigger `move` and `stop`</b>
+    <a href="https://github.com/simonwep/viselect/issues/238">
+      simonwep/viselect/issues/238
+    </a>
+  </p>
+  <p>
+    <a href="https://github.com/simonwep/viselect/issues/237">
+        <img
+          src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/scrape-github/images/issue-closed.svg"
+          width="20"
+          height="20"
+          alt="pr closed"
+          title="PR closed"
+        />
+      #237
+    </a>
+    <b>New version `v3.7.0` not published to NPM</b>
+    <a href="https://github.com/simonwep/viselect/issues/237">
+      simonwep/viselect/issues/237
+    </a>
+  </p>
+  <p>
+    <a href="https://github.com/stevearc/oil.nvim/issues/518">
+        <img
+          src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/scrape-github/images/issue-closed.svg"
+          width="20"
+          height="20"
+          alt="pr closed"
+          title="PR closed"
+        />
+      #518
+    </a>
+    <b>feature request: Are there plans to support 3rd/image.nvim ? in the preview window it would be amazing. </b>
+    <a href="https://github.com/stevearc/oil.nvim/issues/518">
+      stevearc/oil.nvim/issues/518
+    </a>
+  </p>
+  <p>
+    <a href="https://github.com/simonwep/viselect/issues/236">
+        <img
+          src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/scrape-github/images/issue-closed.svg"
+          width="20"
+          height="20"
+          alt="pr closed"
+          title="PR closed"
+        />
+      #236
+    </a>
+    <b>How to test integration with this package? it seems Jest and jsom don't implement `DOMRect`</b>
+    <a href="https://github.com/simonwep/viselect/issues/236">
+      simonwep/viselect/issues/236
+    </a>
+  </p>
+  <p>
+    <a href="https://github.com/Nova-Edge/laravel-openapi/issues/28">
+        <img
+          src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/scrape-github/images/issue-open.svg"
+          width="20"
+          height="20"
+          alt="pr open"
+          title="PR open"
+        />
+      #28
+    </a>
+    <b>Not generating reusable Schemas</b>
+    <a href="https://github.com/Nova-Edge/laravel-openapi/issues/28">
+      Nova-Edge/laravel-openapi/issues/28
+    </a>
+  </p>
+  <p>
+    <a href="https://github.com/smoka7/hop.nvim/issues/83">
+        <img
+          src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/scrape-github/images/issue-closed.svg"
+          width="20"
+          height="20"
+          alt="pr closed"
+          title="PR closed"
+        />
+      #83
+    </a>
+    <b>Jumps won't ignore the current cursor position and will create unnecessary label</b>
+    <a href="https://github.com/smoka7/hop.nvim/issues/83">
+      smoka7/hop.nvim/issues/83
+    </a>
+  </p>
 <h3>Badges</h3>
 <a href="http://www.github.com/carlos-algms">
   <img
