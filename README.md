@@ -517,7 +517,7 @@
       smoka7/hop.nvim/issues/83
     </a>
   </p>
-<h3>Badges</h3>
+<h4>Badges</h4>
 <a href="http://www.github.com/carlos-algms">
   <img
     src="https://github-readme-stats.vercel.app/api?username=carlos-algms&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true"
