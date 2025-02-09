@@ -517,6 +517,7 @@
       smoka7/hop.nvim/issues/83
     </a>
   </p>
+<p>&nbsp;</p>
 <h2>Badges</h2>
 <a href="http://www.github.com/carlos-algms">
   <img
