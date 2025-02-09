@@ -209,31 +209,6 @@
   ><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos.svg" width="36" height="36" alt="MacOS"
 /></a>
 <p>&nbsp;</p>
-<h3>Badges</h3>
-<a href="http://www.github.com/carlos-algms">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=carlos-algms&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true"
-    alt="carlos-algms's GitHub stats"
-  />
-</a>
-<a href="http://www.github.com/carlos-algms">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=carlos-algms&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true"
-  />
-</a>
-<p>&nbsp;</p>
-<a href="https://github.com/carlos-algms" align="left">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlos-algms&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages"
-    alt="Top Languages"
-  />
-</a>
-<a href="http://www.github.com/carlos-algms">
-  <img
-    src="https://github-readme-activity-graph.cyclic.app/graph?username=carlos-algms&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph"
-    alt="GitHub Commits Graph"
-  />
-</a>
 <h2>My open-source contributions</h2>
 <h3>Pull-requests</h3>
   <p>
@@ -382,3 +357,28 @@
   </p>
 <hr />
 <h3>Issues</h3>
+<h3>Badges</h3>
+<a href="http://www.github.com/carlos-algms">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=carlos-algms&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true"
+    alt="carlos-algms's GitHub stats"
+  />
+</a>
+<a href="http://www.github.com/carlos-algms">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=carlos-algms&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true"
+  />
+</a>
+<p>&nbsp;</p>
+<a href="https://github.com/carlos-algms" align="left">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlos-algms&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages"
+    alt="Top Languages"
+  />
+</a>
+<a href="http://www.github.com/carlos-algms">
+  <img
+    src="https://github-readme-activity-graph.cyclic.app/graph?username=carlos-algms&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph"
+    alt="GitHub Commits Graph"
+  />
+</a>

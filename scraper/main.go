@@ -57,6 +57,7 @@ func main() {
 		log.Fatalf("Error rendering base template: %v", err)
 	}
 
+	// Github Markdown wasn't rendering HTML tags with empty lines in between
 	content := removeEmptyLines(&baseRendered)
 	err = os.WriteFile("../README.md", content, 0644)
 	if err != nil {
