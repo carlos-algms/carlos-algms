@@ -12,8 +12,12 @@ import (
 )
 
 type Issue struct {
-	Title string `json:"title"`
-	URL   string `json:"html_url"`
+	Title         string `json:"title"`
+	URL           string `json:"html_url"`
+	RepositoryURL string `json:"repository_url"`
+	Number        int    `json:"number"`
+	State         string `json:"state"`
+	Reason        string `json:"state_reason"`
 }
 
 func SearchIssuesAndPrs(username string) ([]Issue, []Issue, error) {

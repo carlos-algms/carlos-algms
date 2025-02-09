@@ -1,0 +1,28 @@
+<dl>
+  {{ range .Prs }}
+    <dt>
+      {{ if eq .State "closed" }}
+        <img
+          src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/scrape-github/images/pr-closed.svg"
+          width="20"
+          height="20"
+          alt="pr closed"
+          title="PR closed"
+        />
+      {{ else }}
+        <img
+          src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/scrape-github/images/pr-open.svg"
+          width="20"
+          height="20"
+          alt="pr open"
+          title="PR open"
+        />
+      {{ end }}
+      <span>{{ .Title }}</span>
+      <span>#{{ .Number }}</span>
+    </dt>
+    <dd>
+      {{ .RepositoryURL }}
+    </dd>
+  {{ end }}
+</dl>

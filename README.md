@@ -255,3 +255,166 @@
     alt="GitHub Commits Graph"
   />
 </a>
+
+<dl>
+  
+    <dt>
+      
+        <img
+          src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/scrape-github/images/pr-closed.svg"
+          width="20"
+          height="20"
+          alt="pr closed"
+          title="PR closed"
+        />
+      
+      <span>fix: use vim.fs.normalize instead of using a helper from lspconfig</span>
+      <span>#318</span>
+    </dt>
+    <dd>
+      https://api.github.com/repos/pmizio/typescript-tools.nvim
+    </dd>
+  
+    <dt>
+      
+        <img
+          src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/scrape-github/images/pr-closed.svg"
+          width="20"
+          height="20"
+          alt="pr closed"
+          title="PR closed"
+        />
+      
+      <span>fix: Events not being triggered on last element deselection</span>
+      <span>#239</span>
+    </dt>
+    <dd>
+      https://api.github.com/repos/simonwep/viselect
+    </dd>
+  
+    <dt>
+      
+        <img
+          src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/scrape-github/images/pr-closed.svg"
+          width="20"
+          height="20"
+          alt="pr closed"
+          title="PR closed"
+        />
+      
+      <span>[fix] Wrongly tagging PascalCase symbols as types</span>
+      <span>#290</span>
+    </dt>
+    <dd>
+      https://api.github.com/repos/tree-sitter/tree-sitter-typescript
+    </dd>
+  
+    <dt>
+      
+        <img
+          src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/scrape-github/images/pr-closed.svg"
+          width="20"
+          height="20"
+          alt="pr closed"
+          title="PR closed"
+        />
+      
+      <span>Add keymaps for start, resume, submit and discard Reviews</span>
+      <span>#498</span>
+    </dt>
+    <dd>
+      https://api.github.com/repos/pwntester/octo.nvim
+    </dd>
+  
+    <dt>
+      
+        <img
+          src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/scrape-github/images/pr-closed.svg"
+          width="20"
+          height="20"
+          alt="pr closed"
+          title="PR closed"
+        />
+      
+      <span>Show relative paths when CWD only is enabled for recent files</span>
+      <span>#416</span>
+    </dt>
+    <dd>
+      https://api.github.com/repos/nvimdev/dashboard-nvim
+    </dd>
+  
+    <dt>
+      
+        <img
+          src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/scrape-github/images/pr-closed.svg"
+          width="20"
+          height="20"
+          alt="pr closed"
+          title="PR closed"
+        />
+      
+      <span>Refactor search results page to looks like a normal listing page</span>
+      <span>#1059</span>
+    </dt>
+    <dd>
+      https://api.github.com/repos/blakadder/zigbee
+    </dd>
+  
+    <dt>
+      
+        <img
+          src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/scrape-github/images/pr-closed.svg"
+          width="20"
+          height="20"
+          alt="pr closed"
+          title="PR closed"
+        />
+      
+      <span>Update MOES MS-105 which now uses WB2S</span>
+      <span>#1349</span>
+    </dt>
+    <dd>
+      https://api.github.com/repos/blakadder/templates
+    </dd>
+  
+    <dt>
+      
+        <img
+          src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/scrape-github/images/pr-closed.svg"
+          width="20"
+          height="20"
+          alt="pr closed"
+          title="PR closed"
+        />
+      
+      <span>Enable non-personalized Ads to support GDPR compliance </span>
+      <span>#97</span>
+    </dt>
+    <dd>
+      https://api.github.com/repos/nfl/react-gpt
+    </dd>
+  
+    <dt>
+      
+        <img
+          src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/scrape-github/images/pr-closed.svg"
+          width="20"
+          height="20"
+          alt="pr closed"
+          title="PR closed"
+        />
+      
+      <span>Added Materialize theme</span>
+      <span>#460</span>
+    </dt>
+    <dd>
+      https://api.github.com/repos/hexojs/site
+    </dd>
+  
+</dl>
+
+
+
+<hr />
+
+
