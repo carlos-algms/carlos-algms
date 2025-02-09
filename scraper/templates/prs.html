@@ -1,6 +1,6 @@
 {{ range .Prs }}
   <p>
-    <div>
+    <a href="{{ .URL }}">
       {{ if eq .State "closed" }}
         <img
           src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/scrape-github/images/pr-closed.svg"
@@ -18,13 +18,12 @@
           title="PR open"
         />
       {{ end }}
-      <b>{{ .Title }}</b>
-      <a href="{{ .URL }}">#{{ .Number }}</a>
-    </div>
-    <div>
-    <a href="{{ .RepositoryURL }}">
-        {{ .RepositoryPath }}
+      #{{ .Number }}
     </a>
-  </div>
+    <b>{{ .Title }}</b>
+    <br />
+    <a href="{{ .RepositoryURL }}">
+      {{ .RepositoryPath }}
+    </a>
   </p>
 {{ end }}

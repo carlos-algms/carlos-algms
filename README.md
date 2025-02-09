@@ -234,8 +234,10 @@
     alt="GitHub Commits Graph"
   />
 </a>
+<h2>My open-source contributions</h2>
+<h3>Pull-requests</h3>
   <p>
-    <div>
+    <a href="https://github.com/pmizio/typescript-tools.nvim/pull/318">
         <img
           src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/scrape-github/images/pr-closed.svg"
           width="20"
@@ -243,17 +245,16 @@
           alt="pr closed"
           title="PR closed"
         />
-      <b>fix: use vim.fs.normalize instead of using a helper from lspconfig</b>
-      <a href="https://github.com/pmizio/typescript-tools.nvim/pull/318">#318</a>
-    </div>
-    <div>
+      #318
+    </a>
+    <b>fix: use vim.fs.normalize instead of using a helper from lspconfig</b>
+    <br />
     <a href="https://github.com/pmizio/typescript-tools.nvim">
-        pmizio/typescript-tools.nvim
+      pmizio/typescript-tools.nvim
     </a>
-  </div>
   </p>
   <p>
-    <div>
+    <a href="https://github.com/simonwep/viselect/pull/239">
         <img
           src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/scrape-github/images/pr-closed.svg"
           width="20"
@@ -261,17 +262,16 @@
           alt="pr closed"
           title="PR closed"
         />
-      <b>fix: Events not being triggered on last element deselection</b>
-      <a href="https://github.com/simonwep/viselect/pull/239">#239</a>
-    </div>
-    <div>
+      #239
+    </a>
+    <b>fix: Events not being triggered on last element deselection</b>
+    <br />
     <a href="https://github.com/simonwep/viselect">
-        simonwep/viselect
+      simonwep/viselect
     </a>
-  </div>
   </p>
   <p>
-    <div>
+    <a href="https://github.com/tree-sitter/tree-sitter-typescript/pull/290">
         <img
           src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/scrape-github/images/pr-closed.svg"
           width="20"
@@ -279,17 +279,16 @@
           alt="pr closed"
           title="PR closed"
         />
-      <b>[fix] Wrongly tagging PascalCase symbols as types</b>
-      <a href="https://github.com/tree-sitter/tree-sitter-typescript/pull/290">#290</a>
-    </div>
-    <div>
+      #290
+    </a>
+    <b>[fix] Wrongly tagging PascalCase symbols as types</b>
+    <br />
     <a href="https://github.com/tree-sitter/tree-sitter-typescript">
-        tree-sitter/tree-sitter-typescript
+      tree-sitter/tree-sitter-typescript
     </a>
-  </div>
   </p>
   <p>
-    <div>
+    <a href="https://github.com/pwntester/octo.nvim/pull/498">
         <img
           src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/scrape-github/images/pr-closed.svg"
           width="20"
@@ -297,17 +296,16 @@
           alt="pr closed"
           title="PR closed"
         />
-      <b>Add keymaps for start, resume, submit and discard Reviews</b>
-      <a href="https://github.com/pwntester/octo.nvim/pull/498">#498</a>
-    </div>
-    <div>
+      #498
+    </a>
+    <b>Add keymaps for start, resume, submit and discard Reviews</b>
+    <br />
     <a href="https://github.com/pwntester/octo.nvim">
-        pwntester/octo.nvim
+      pwntester/octo.nvim
     </a>
-  </div>
   </p>
   <p>
-    <div>
+    <a href="https://github.com/nvimdev/dashboard-nvim/pull/416">
         <img
           src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/scrape-github/images/pr-closed.svg"
           width="20"
@@ -315,17 +313,16 @@
           alt="pr closed"
           title="PR closed"
         />
-      <b>Show relative paths when CWD only is enabled for recent files</b>
-      <a href="https://github.com/nvimdev/dashboard-nvim/pull/416">#416</a>
-    </div>
-    <div>
+      #416
+    </a>
+    <b>Show relative paths when CWD only is enabled for recent files</b>
+    <br />
     <a href="https://github.com/nvimdev/dashboard-nvim">
-        nvimdev/dashboard-nvim
+      nvimdev/dashboard-nvim
     </a>
-  </div>
   </p>
   <p>
-    <div>
+    <a href="https://github.com/blakadder/zigbee/pull/1059">
         <img
           src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/scrape-github/images/pr-closed.svg"
           width="20"
@@ -333,17 +330,16 @@
           alt="pr closed"
           title="PR closed"
         />
-      <b>Refactor search results page to looks like a normal listing page</b>
-      <a href="https://github.com/blakadder/zigbee/pull/1059">#1059</a>
-    </div>
-    <div>
+      #1059
+    </a>
+    <b>Refactor search results page to looks like a normal listing page</b>
+    <br />
     <a href="https://github.com/blakadder/zigbee">
-        blakadder/zigbee
+      blakadder/zigbee
     </a>
-  </div>
   </p>
   <p>
-    <div>
+    <a href="https://github.com/blakadder/templates/pull/1349">
         <img
           src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/scrape-github/images/pr-closed.svg"
           width="20"
@@ -351,17 +347,16 @@
           alt="pr closed"
           title="PR closed"
         />
-      <b>Update MOES MS-105 which now uses WB2S</b>
-      <a href="https://github.com/blakadder/templates/pull/1349">#1349</a>
-    </div>
-    <div>
+      #1349
+    </a>
+    <b>Update MOES MS-105 which now uses WB2S</b>
+    <br />
     <a href="https://github.com/blakadder/templates">
-        blakadder/templates
+      blakadder/templates
     </a>
-  </div>
   </p>
   <p>
-    <div>
+    <a href="https://github.com/nfl/react-gpt/pull/97">
         <img
           src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/scrape-github/images/pr-closed.svg"
           width="20"
@@ -369,17 +364,16 @@
           alt="pr closed"
           title="PR closed"
         />
-      <b>Enable non-personalized Ads to support GDPR compliance </b>
-      <a href="https://github.com/nfl/react-gpt/pull/97">#97</a>
-    </div>
-    <div>
+      #97
+    </a>
+    <b>Enable non-personalized Ads to support GDPR compliance </b>
+    <br />
     <a href="https://github.com/nfl/react-gpt">
-        nfl/react-gpt
+      nfl/react-gpt
     </a>
-  </div>
   </p>
   <p>
-    <div>
+    <a href="https://github.com/hexojs/site/pull/460">
         <img
           src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/scrape-github/images/pr-closed.svg"
           width="20"
@@ -387,13 +381,13 @@
           alt="pr closed"
           title="PR closed"
         />
-      <b>Added Materialize theme</b>
-      <a href="https://github.com/hexojs/site/pull/460">#460</a>
-    </div>
-    <div>
-    <a href="https://github.com/hexojs/site">
-        hexojs/site
+      #460
     </a>
-  </div>
+    <b>Added Materialize theme</b>
+    <br />
+    <a href="https://github.com/hexojs/site">
+      hexojs/site
+    </a>
   </p>
 <hr />
+<h3>Issues</h3>
