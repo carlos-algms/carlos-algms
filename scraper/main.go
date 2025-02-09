@@ -57,10 +57,24 @@ func main() {
 		log.Fatalf("Error rendering base template: %v", err)
 	}
 
-	err = os.WriteFile("../README.md", baseRendered.Bytes(), 0644)
+	content := removeEmptyLines(&baseRendered)
+	err = os.WriteFile("../README.md", content, 0644)
 	if err != nil {
 		log.Fatalf("Error writing to README.md: %v", err)
 	}
 
 	fmt.Println("README.md updated successfully")
+}
+
+func removeEmptyLines(buffer *bytes.Buffer) []byte {
+	input := buffer.Bytes()
+	lines := bytes.Split(input, []byte("\n"))
+	var nonEmptyLines [][]byte
+	for _, line := range lines {
+		if len(bytes.TrimSpace(line)) > 0 {
+			nonEmptyLines = append(nonEmptyLines, line)
+		}
+	}
+	output := bytes.Join(nonEmptyLines, []byte("\n"))
+	return output
 }
