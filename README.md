@@ -248,7 +248,6 @@
       #318
     </a>
     <b>fix: use vim.fs.normalize instead of using a helper from lspconfig</b>
-    <br />
     <a href="https://github.com/pmizio/typescript-tools.nvim">
       pmizio/typescript-tools.nvim
     </a>
@@ -265,7 +264,6 @@
       #239
     </a>
     <b>fix: Events not being triggered on last element deselection</b>
-    <br />
     <a href="https://github.com/simonwep/viselect">
       simonwep/viselect
     </a>
@@ -282,7 +280,6 @@
       #290
     </a>
     <b>[fix] Wrongly tagging PascalCase symbols as types</b>
-    <br />
     <a href="https://github.com/tree-sitter/tree-sitter-typescript">
       tree-sitter/tree-sitter-typescript
     </a>
@@ -299,7 +296,6 @@
       #498
     </a>
     <b>Add keymaps for start, resume, submit and discard Reviews</b>
-    <br />
     <a href="https://github.com/pwntester/octo.nvim">
       pwntester/octo.nvim
     </a>
@@ -316,7 +312,6 @@
       #416
     </a>
     <b>Show relative paths when CWD only is enabled for recent files</b>
-    <br />
     <a href="https://github.com/nvimdev/dashboard-nvim">
       nvimdev/dashboard-nvim
     </a>
@@ -333,7 +328,6 @@
       #1059
     </a>
     <b>Refactor search results page to looks like a normal listing page</b>
-    <br />
     <a href="https://github.com/blakadder/zigbee">
       blakadder/zigbee
     </a>
@@ -350,7 +344,6 @@
       #1349
     </a>
     <b>Update MOES MS-105 which now uses WB2S</b>
-    <br />
     <a href="https://github.com/blakadder/templates">
       blakadder/templates
     </a>
@@ -367,7 +360,6 @@
       #97
     </a>
     <b>Enable non-personalized Ads to support GDPR compliance </b>
-    <br />
     <a href="https://github.com/nfl/react-gpt">
       nfl/react-gpt
     </a>
@@ -384,7 +376,6 @@
       #460
     </a>
     <b>Added Materialize theme</b>
-    <br />
     <a href="https://github.com/hexojs/site">
       hexojs/site
     </a>
