@@ -214,7 +214,7 @@
   <p>
     <a href="https://github.com/pmizio/typescript-tools.nvim/pull/318">
         <img
-          src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/scrape-github/images/pr-closed.svg"
+          src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/pr-closed.svg"
           width="20"
           height="20"
           alt="pr closed"
@@ -230,7 +230,7 @@
   <p>
     <a href="https://github.com/simonwep/viselect/pull/239">
         <img
-          src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/scrape-github/images/pr-closed.svg"
+          src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/pr-closed.svg"
           width="20"
           height="20"
           alt="pr closed"
@@ -246,7 +246,7 @@
   <p>
     <a href="https://github.com/tree-sitter/tree-sitter-typescript/pull/290">
         <img
-          src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/scrape-github/images/pr-closed.svg"
+          src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/pr-closed.svg"
           width="20"
           height="20"
           alt="pr closed"
@@ -262,7 +262,7 @@
   <p>
     <a href="https://github.com/pwntester/octo.nvim/pull/498">
         <img
-          src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/scrape-github/images/pr-closed.svg"
+          src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/pr-closed.svg"
           width="20"
           height="20"
           alt="pr closed"
@@ -278,7 +278,7 @@
   <p>
     <a href="https://github.com/nvimdev/dashboard-nvim/pull/416">
         <img
-          src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/scrape-github/images/pr-closed.svg"
+          src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/pr-closed.svg"
           width="20"
           height="20"
           alt="pr closed"
@@ -294,7 +294,7 @@
   <p>
     <a href="https://github.com/blakadder/zigbee/pull/1059">
         <img
-          src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/scrape-github/images/pr-closed.svg"
+          src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/pr-closed.svg"
           width="20"
           height="20"
           alt="pr closed"
@@ -310,7 +310,7 @@
   <p>
     <a href="https://github.com/blakadder/templates/pull/1349">
         <img
-          src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/scrape-github/images/pr-closed.svg"
+          src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/pr-closed.svg"
           width="20"
           height="20"
           alt="pr closed"
@@ -326,7 +326,7 @@
   <p>
     <a href="https://github.com/nfl/react-gpt/pull/97">
         <img
-          src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/scrape-github/images/pr-closed.svg"
+          src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/pr-closed.svg"
           width="20"
           height="20"
           alt="pr closed"
@@ -342,7 +342,7 @@
   <p>
     <a href="https://github.com/hexojs/site/pull/460">
         <img
-          src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/scrape-github/images/pr-closed.svg"
+          src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/pr-closed.svg"
           width="20"
           height="20"
           alt="pr closed"
@@ -360,7 +360,7 @@
   <p>
     <a href="https://github.com/mistweaverco/kulala.nvim/issues/347">
         <img
-          src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/scrape-github/images/issue-closed.svg"
+          src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/issue-closed.svg"
           width="20"
           height="20"
           alt="pr closed"
@@ -376,7 +376,7 @@
   <p>
     <a href="https://github.com/mistweaverco/kulala-ls/issues/6">
         <img
-          src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/scrape-github/images/issue-open.svg"
+          src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/issue-open.svg"
           width="20"
           height="20"
           alt="pr open"
@@ -392,7 +392,7 @@
   <p>
     <a href="https://github.com/sindrets/diffview.nvim/issues/542">
         <img
-          src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/scrape-github/images/issue-open.svg"
+          src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/issue-open.svg"
           width="20"
           height="20"
           alt="pr open"
@@ -408,7 +408,7 @@
   <p>
     <a href="https://github.com/pmizio/typescript-tools.nvim/issues/317">
         <img
-          src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/scrape-github/images/issue-closed.svg"
+          src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/issue-closed.svg"
           width="20"
           height="20"
           alt="pr closed"
@@ -424,7 +424,7 @@
   <p>
     <a href="https://github.com/simonwep/viselect/issues/238">
         <img
-          src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/scrape-github/images/issue-closed.svg"
+          src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/issue-closed.svg"
           width="20"
           height="20"
           alt="pr closed"
@@ -440,7 +440,7 @@
   <p>
     <a href="https://github.com/simonwep/viselect/issues/237">
         <img
-          src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/scrape-github/images/issue-closed.svg"
+          src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/issue-closed.svg"
           width="20"
           height="20"
           alt="pr closed"
@@ -456,7 +456,7 @@
   <p>
     <a href="https://github.com/stevearc/oil.nvim/issues/518">
         <img
-          src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/scrape-github/images/issue-closed.svg"
+          src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/issue-closed.svg"
           width="20"
           height="20"
           alt="pr closed"
@@ -472,7 +472,7 @@
   <p>
     <a href="https://github.com/simonwep/viselect/issues/236">
         <img
-          src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/scrape-github/images/issue-closed.svg"
+          src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/issue-closed.svg"
           width="20"
           height="20"
           alt="pr closed"
@@ -488,7 +488,7 @@
   <p>
     <a href="https://github.com/Nova-Edge/laravel-openapi/issues/28">
         <img
-          src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/scrape-github/images/issue-open.svg"
+          src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/issue-open.svg"
           width="20"
           height="20"
           alt="pr open"
@@ -504,7 +504,7 @@
   <p>
     <a href="https://github.com/smoka7/hop.nvim/issues/83">
         <img
-          src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/scrape-github/images/issue-closed.svg"
+          src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/issue-closed.svg"
           width="20"
           height="20"
           alt="pr closed"
