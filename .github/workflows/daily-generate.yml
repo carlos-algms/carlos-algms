@@ -16,6 +16,14 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v2
 
+      - name: Set up Go
+        uses: actions/setup-go@v3
+        with:
+          go-version: 'latest'
+
+      - name: Build the Scraper
+        run: make build
+
       - name: Run Make generate
         run: make generate
 
