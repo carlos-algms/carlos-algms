@@ -358,6 +358,38 @@
 <hr />
 <h3>Issues opened</h3>
   <p>
+    <a href="https://github.com/tegonhq/tegon/issues/390">
+        <img
+          src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/issue-open.svg"
+          width="20"
+          height="20"
+          alt="pr open"
+          title="PR open"
+        />
+      #390
+    </a>
+    <b>Would you consider progressive self-hosting? Starting with only SQLite and make everything else optional</b>
+    <a href="https://github.com/tegonhq/tegon/issues/390">
+      tegonhq/tegon/issues/390
+    </a>
+  </p>
+  <p>
+    <a href="https://github.com/folke/snacks.nvim/issues/1579">
+        <img
+          src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/issue-open.svg"
+          width="20"
+          height="20"
+          alt="pr open"
+          title="PR open"
+        />
+      #1579
+    </a>
+    <b>bug(picker) LSP pickers fails to resume</b>
+    <a href="https://github.com/folke/snacks.nvim/issues/1579">
+      folke/snacks.nvim/issues/1579
+    </a>
+  </p>
+  <p>
     <a href="https://github.com/mistweaverco/kulala.nvim/issues/347">
         <img
           src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/issue-closed.svg"
@@ -376,11 +408,11 @@
   <p>
     <a href="https://github.com/mistweaverco/kulala-ls/issues/6">
         <img
-          src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/issue-open.svg"
+          src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/issue-closed.svg"
           width="20"
           height="20"
-          alt="pr open"
-          title="PR open"
+          alt="pr closed"
+          title="PR closed"
         />
       #6
     </a>
@@ -483,38 +515,6 @@
     <b>How to test integration with this package? it seems Jest and jsom don't implement `DOMRect`</b>
     <a href="https://github.com/simonwep/viselect/issues/236">
       simonwep/viselect/issues/236
-    </a>
-  </p>
-  <p>
-    <a href="https://github.com/Nova-Edge/laravel-openapi/issues/28">
-        <img
-          src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/issue-open.svg"
-          width="20"
-          height="20"
-          alt="pr open"
-          title="PR open"
-        />
-      #28
-    </a>
-    <b>Not generating reusable Schemas</b>
-    <a href="https://github.com/Nova-Edge/laravel-openapi/issues/28">
-      Nova-Edge/laravel-openapi/issues/28
-    </a>
-  </p>
-  <p>
-    <a href="https://github.com/smoka7/hop.nvim/issues/83">
-        <img
-          src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/issue-closed.svg"
-          width="20"
-          height="20"
-          alt="pr closed"
-          title="PR closed"
-        />
-      #83
-    </a>
-    <b>Jumps won't ignore the current cursor position and will create unnecessary label</b>
-    <a href="https://github.com/smoka7/hop.nvim/issues/83">
-      smoka7/hop.nvim/issues/83
     </a>
   </p>
 <p>&nbsp;</p>
