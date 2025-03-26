@@ -17,7 +17,7 @@ jobs:
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
-          persist-credentials: false
+          # persist-credentials: false
 
       - name: Set up Go
         uses: actions/setup-go@v5
@@ -40,5 +40,5 @@ jobs:
           git add .
           git commit -m "Automated update: $(date) [skip ci]"
           git push
-        env:
-          GITHUB_TOKEN: ${{ secrets.PAT }}
+        # env:
+        # GITHUB_TOKEN: ${{ secrets.PAT }}
