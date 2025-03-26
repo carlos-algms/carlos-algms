@@ -14,12 +14,12 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
 
       - name: Set up Go
-        uses: actions/setup-go@v3
+        uses: actions/setup-go@v5
         with:
-          go-version: 1.24.1
+          go-version: '^1.24.1'
 
       - name: Build the Scraper
         run: make build
@@ -35,7 +35,7 @@ jobs:
       - name: Commit changes
         run: |
           git add .
-          git commit -m "Automated update: $(date)"
+          git commit -m "Automated update: $(date) [skip ci]"
           git push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
