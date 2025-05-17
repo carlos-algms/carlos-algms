@@ -358,6 +358,22 @@
 <hr />
 <h3>Issues opened</h3>
   <p>
+    <a href="https://github.com/single-spa/standalone-single-spa-webpack-plugin/issues/30">
+        <img
+          src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/issue-open.svg"
+          width="20"
+          height="20"
+          alt="pr open"
+          title="PR open"
+        />
+      #30
+    </a>
+    <b>Standalone uses SystemJs even if outputSystemJS is false it also doesn't respect moduleFormat esm</b>
+    <a href="https://github.com/single-spa/standalone-single-spa-webpack-plugin/issues/30">
+      single-spa/standalone-single-spa-webpack-plugin/issues/30
+    </a>
+  </p>
+  <p>
     <a href="https://github.com/tegonhq/tegon/issues/390">
         <img
           src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/issue-open.svg"
@@ -501,22 +517,6 @@
       stevearc/oil.nvim/issues/518
     </a>
   </p>
-  <p>
-    <a href="https://github.com/simonwep/viselect/issues/236">
-        <img
-          src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/issue-closed.svg"
-          width="20"
-          height="20"
-          alt="pr closed"
-          title="PR closed"
-        />
-      #236
-    </a>
-    <b>How to test integration with this package? it seems Jest and jsom don't implement `DOMRect`</b>
-    <a href="https://github.com/simonwep/viselect/issues/236">
-      simonwep/viselect/issues/236
-    </a>
-  </p>
 <p>&nbsp;</p>
 <h2>Badges</h2>
 <a href="http://www.github.com/carlos-algms">
@@ -543,4 +543,4 @@
     alt="GitHub Commits Graph"
   />
 </a>
-<!-- Generated on 2025-05-16 00:24:55 -->
+<!-- Generated on 2025-05-17 00:24:06 -->
