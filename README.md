@@ -358,6 +358,22 @@
 <hr />
 <h3>Issues opened</h3>
   <p>
+    <a href="https://github.com/eza-community/eza/issues/1494">
+        <img
+          src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/issue-open.svg"
+          width="20"
+          height="20"
+          alt="pr open"
+          title="PR open"
+        />
+      #1494
+    </a>
+    <b>feat:  Provide a dump-theme option so we can invetigate from where styles are applied</b>
+    <a href="https://github.com/eza-community/eza/issues/1494">
+      eza-community/eza/issues/1494
+    </a>
+  </p>
+  <p>
     <a href="https://github.com/single-spa/standalone-single-spa-webpack-plugin/issues/30">
         <img
           src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/issue-open.svg"
@@ -501,22 +517,6 @@
       simonwep/viselect/issues/237
     </a>
   </p>
-  <p>
-    <a href="https://github.com/stevearc/oil.nvim/issues/518">
-        <img
-          src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/issue-closed.svg"
-          width="20"
-          height="20"
-          alt="pr closed"
-          title="PR closed"
-        />
-      #518
-    </a>
-    <b>feature request: Are there plans to support 3rd/image.nvim ? in the preview window it would be amazing. </b>
-    <a href="https://github.com/stevearc/oil.nvim/issues/518">
-      stevearc/oil.nvim/issues/518
-    </a>
-  </p>
 <p>&nbsp;</p>
 <h2>Badges</h2>
 <a href="http://www.github.com/carlos-algms">
@@ -543,4 +543,4 @@
     alt="GitHub Commits Graph"
   />
 </a>
-<!-- Generated on 2025-05-30 00:24:56 -->
+<!-- Generated on 2025-05-31 00:24:03 -->
