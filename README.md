@@ -390,7 +390,7 @@
     </a>
   </p>
   <p>
-    <a href="https://github.com/tegonhq/tegon/issues/390">
+    <a href="https://github.com/RedPlanetHQ/tegon/issues/390">
         <img
           src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/issue-open.svg"
           width="20"
@@ -401,8 +401,8 @@
       #390
     </a>
     <b>Would you consider progressive self-hosting? Starting with only SQLite and make everything else optional</b>
-    <a href="https://github.com/tegonhq/tegon/issues/390">
-      tegonhq/tegon/issues/390
+    <a href="https://github.com/RedPlanetHQ/tegon/issues/390">
+      RedPlanetHQ/tegon/issues/390
     </a>
   </p>
   <p>
@@ -543,4 +543,4 @@
     alt="GitHub Commits Graph"
   />
 </a>
-<!-- Generated on 2025-06-02 00:26:33 -->
+<!-- Generated on 2025-06-03 00:25:31 -->
