@@ -374,6 +374,22 @@
 <hr />
 <h3>Issues opened</h3>
   <p>
+    <a href="https://github.com/neovim/nvim-lspconfig/issues/4023">
+        <img
+          src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/issue-open.svg"
+          width="20"
+          height="20"
+          alt="pr open"
+          title="PR open"
+        />
+      #4023
+    </a>
+    <b>Regression BUG: vim.fs.root crashes with the new table from #4013</b>
+    <a href="https://github.com/neovim/nvim-lspconfig/issues/4023">
+      neovim/nvim-lspconfig/issues/4023
+    </a>
+  </p>
+  <p>
     <a href="https://github.com/mistweaverco/zana-client/issues/3">
         <img
           src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/issue-closed.svg"
@@ -517,22 +533,6 @@
       sindrets/diffview.nvim/issues/542
     </a>
   </p>
-  <p>
-    <a href="https://github.com/pmizio/typescript-tools.nvim/issues/317">
-        <img
-          src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/issue-closed.svg"
-          width="20"
-          height="20"
-          alt="pr closed"
-          title="PR closed"
-        />
-      #317
-    </a>
-    <b>Attempt to call `sanitize` a nil value - It seems lsp-config dropped it from `utils.path.sanitize` </b>
-    <a href="https://github.com/pmizio/typescript-tools.nvim/issues/317">
-      pmizio/typescript-tools.nvim/issues/317
-    </a>
-  </p>
 <p>&nbsp;</p>
 <h2>Badges</h2>
 <a href="http://www.github.com/carlos-algms">
@@ -559,4 +559,4 @@
     alt="GitHub Commits Graph"
   />
 </a>
-<!-- Generated on 2025-08-21 00:23:30 -->
+<!-- Generated on 2025-08-22 00:24:06 -->
