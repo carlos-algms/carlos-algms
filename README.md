@@ -376,11 +376,11 @@
   <p>
     <a href="https://github.com/neovim/nvim-lspconfig/issues/4023">
         <img
-          src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/issue-open.svg"
+          src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/issue-closed.svg"
           width="20"
           height="20"
-          alt="pr open"
-          title="PR open"
+          alt="pr closed"
+          title="PR closed"
         />
       #4023
     </a>
@@ -559,4 +559,4 @@
     alt="GitHub Commits Graph"
   />
 </a>
-<!-- Generated on 2025-08-22 00:24:06 -->
+<!-- Generated on 2025-08-23 00:23:35 -->
