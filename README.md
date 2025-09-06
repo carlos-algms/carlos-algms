@@ -374,6 +374,22 @@
 <hr />
 <h3>Issues opened</h3>
   <p>
+    <a href="https://github.com/yetone/avante.nvim/issues/2689">
+        <img
+          src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/issue-open.svg"
+          width="20"
+          height="20"
+          alt="pr open"
+          title="PR open"
+        />
+      #2689
+    </a>
+    <b>bug: Claude applies changes directly instead of showing the confirmation and the diff like Copilot</b>
+    <a href="https://github.com/yetone/avante.nvim/issues/2689">
+      yetone/avante.nvim/issues/2689
+    </a>
+  </p>
+  <p>
     <a href="https://github.com/neovim/nvim-lspconfig/issues/4023">
         <img
           src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/issue-closed.svg"
@@ -517,22 +533,6 @@
       mistweaverco/kulala-ls/issues/6
     </a>
   </p>
-  <p>
-    <a href="https://github.com/sindrets/diffview.nvim/issues/542">
-        <img
-          src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/issue-open.svg"
-          width="20"
-          height="20"
-          alt="pr open"
-          title="PR open"
-        />
-      #542
-    </a>
-    <b>Consider showing the branch name in the files panel? </b>
-    <a href="https://github.com/sindrets/diffview.nvim/issues/542">
-      sindrets/diffview.nvim/issues/542
-    </a>
-  </p>
 <p>&nbsp;</p>
 <h2>Badges</h2>
 <a href="http://www.github.com/carlos-algms">
@@ -559,4 +559,4 @@
     alt="GitHub Commits Graph"
   />
 </a>
-<!-- Generated on 2025-09-05 00:23:56 -->
+<!-- Generated on 2025-09-06 00:22:29 -->
