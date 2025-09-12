@@ -212,6 +212,22 @@
 <h2>My open-source contributions</h2>
 <h3>Pull-requests</h3>
   <p>
+    <a href="https://github.com/yetone/avante.nvim/pull/2700">
+        <img
+          src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/pr-closed.svg"
+          width="20"
+          height="20"
+          alt="pr closed"
+          title="PR closed"
+        />
+      #2700
+    </a>
+    <b>feat: include hidden files when scanning directories</b>
+    <a href="https://github.com/yetone/avante.nvim">
+      yetone/avante.nvim
+    </a>
+  </p>
+  <p>
     <a href="https://github.com/mason-org/mason-registry/pull/10592">
         <img
           src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/pr-closed.svg"
@@ -353,22 +369,6 @@
     <b>Enable non-personalized Ads to support GDPR compliance </b>
     <a href="https://github.com/nfl/react-gpt">
       nfl/react-gpt
-    </a>
-  </p>
-  <p>
-    <a href="https://github.com/hexojs/site/pull/460">
-        <img
-          src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/pr-closed.svg"
-          width="20"
-          height="20"
-          alt="pr closed"
-          title="PR closed"
-        />
-      #460
-    </a>
-    <b>Added Materialize theme</b>
-    <a href="https://github.com/hexojs/site">
-      hexojs/site
     </a>
   </p>
 <hr />
@@ -559,4 +559,4 @@
     alt="GitHub Commits Graph"
   />
 </a>
-<!-- Generated on 2025-09-11 00:23:44 -->
+<!-- Generated on 2025-09-12 00:23:30 -->
