@@ -374,6 +374,22 @@
 <hr />
 <h3>Issues opened</h3>
   <p>
+    <a href="https://github.com/dyoshikawa/rulesync/issues/304">
+        <img
+          src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/issue-open.svg"
+          width="20"
+          height="20"
+          alt="pr open"
+          title="PR open"
+        />
+      #304
+    </a>
+    <b>Is there a way of having global rules sync? Like ~/.claude and ~/.gemini ?</b>
+    <a href="https://github.com/dyoshikawa/rulesync/issues/304">
+      dyoshikawa/rulesync/issues/304
+    </a>
+  </p>
+  <p>
     <a href="https://github.com/yetone/avante.nvim/issues/2689">
         <img
           src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/issue-open.svg"
@@ -517,22 +533,6 @@
       mistweaverco/kulala.nvim/issues/347
     </a>
   </p>
-  <p>
-    <a href="https://github.com/mistweaverco/kulala-ls/issues/6">
-        <img
-          src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/issue-closed.svg"
-          width="20"
-          height="20"
-          alt="pr closed"
-          title="PR closed"
-        />
-      #6
-    </a>
-    <b>Will it be available via Mason? To install in NeoVim</b>
-    <a href="https://github.com/mistweaverco/kulala-ls/issues/6">
-      mistweaverco/kulala-ls/issues/6
-    </a>
-  </p>
 <p>&nbsp;</p>
 <h2>Badges</h2>
 <a href="http://www.github.com/carlos-algms">
@@ -559,4 +559,4 @@
     alt="GitHub Commits Graph"
   />
 </a>
-<!-- Generated on 2025-09-21 00:25:59 -->
+<!-- Generated on 2025-09-22 00:26:16 -->
