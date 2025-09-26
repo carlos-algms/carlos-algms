@@ -384,7 +384,7 @@
         />
       #304
     </a>
-    <b>Is there a way of having global rules sync? Like ~/.claude and ~/.gemini ?</b>
+    <b>Support for `--global`</b>
     <a href="https://github.com/dyoshikawa/rulesync/issues/304">
       dyoshikawa/rulesync/issues/304
     </a>
@@ -559,4 +559,4 @@
     alt="GitHub Commits Graph"
   />
 </a>
-<!-- Generated on 2025-09-25 00:23:32 -->
+<!-- Generated on 2025-09-26 00:23:13 -->
