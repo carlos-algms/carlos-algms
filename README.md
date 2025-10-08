@@ -212,6 +212,22 @@
 <h2>My open-source contributions</h2>
 <h3>Pull-requests</h3>
   <p>
+    <a href="https://github.com/folke/snacks.nvim/pull/2250">
+        <img
+          src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/pr-open.svg"
+          width="20"
+          height="20"
+          alt="pr open"
+          title="PR open"
+        />
+      #2250
+    </a>
+    <b>fix(picker): restore LSP picker items on resume</b>
+    <a href="https://github.com/folke/snacks.nvim">
+      folke/snacks.nvim
+    </a>
+  </p>
+  <p>
     <a href="https://github.com/yetone/avante.nvim/pull/2700">
         <img
           src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/pr-closed.svg"
@@ -355,22 +371,6 @@
       blakadder/templates
     </a>
   </p>
-  <p>
-    <a href="https://github.com/nfl/react-gpt/pull/97">
-        <img
-          src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/pr-closed.svg"
-          width="20"
-          height="20"
-          alt="pr closed"
-          title="PR closed"
-        />
-      #97
-    </a>
-    <b>Enable non-personalized Ads to support GDPR compliance </b>
-    <a href="https://github.com/nfl/react-gpt">
-      nfl/react-gpt
-    </a>
-  </p>
 <hr />
 <h3>Issues opened</h3>
   <p>
@@ -392,11 +392,11 @@
   <p>
     <a href="https://github.com/yetone/avante.nvim/issues/2689">
         <img
-          src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/issue-open.svg"
+          src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/issue-closed.svg"
           width="20"
           height="20"
-          alt="pr open"
-          title="PR open"
+          alt="pr closed"
+          title="PR closed"
         />
       #2689
     </a>
@@ -559,4 +559,4 @@
     alt="GitHub Commits Graph"
   />
 </a>
-<!-- Generated on 2025-10-07 00:23:49 -->
+<!-- Generated on 2025-10-08 00:23:39 -->
