@@ -212,6 +212,22 @@
 <h2>My open-source contributions</h2>
 <h3>Pull-requests</h3>
   <p>
+    <a href="https://github.com/yetone/avante.nvim/pull/2760">
+        <img
+          src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/pr-open.svg"
+          width="20"
+          height="20"
+          alt="pr open"
+          title="PR open"
+        />
+      #2760
+    </a>
+    <b>feat: Allow inline buttons and popup confirmation for both ACP and normal Providers</b>
+    <a href="https://github.com/yetone/avante.nvim">
+      yetone/avante.nvim
+    </a>
+  </p>
+  <p>
     <a href="https://github.com/folke/snacks.nvim/pull/2250">
         <img
           src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/pr-open.svg"
@@ -353,22 +369,6 @@
     <b>Refactor search results page to looks like a normal listing page</b>
     <a href="https://github.com/blakadder/zigbee">
       blakadder/zigbee
-    </a>
-  </p>
-  <p>
-    <a href="https://github.com/blakadder/templates/pull/1349">
-        <img
-          src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/pr-closed.svg"
-          width="20"
-          height="20"
-          alt="pr closed"
-          title="PR closed"
-        />
-      #1349
-    </a>
-    <b>Update MOES MS-105 which now uses WB2S</b>
-    <a href="https://github.com/blakadder/templates">
-      blakadder/templates
     </a>
   </p>
 <hr />
@@ -559,4 +559,4 @@
     alt="GitHub Commits Graph"
   />
 </a>
-<!-- Generated on 2025-10-11 00:22:18 -->
+<!-- Generated on 2025-10-12 00:25:07 -->
