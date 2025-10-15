@@ -238,7 +238,7 @@
         />
       #2250
     </a>
-    <b>fix(picker): restore LSP picker items on resume</b>
+    <b>fix(picker): allow LSP pickers to resume from anywhere</b>
     <a href="https://github.com/folke/snacks.nvim">
       folke/snacks.nvim
     </a>
@@ -559,4 +559,4 @@
     alt="GitHub Commits Graph"
   />
 </a>
-<!-- Generated on 2025-10-14 00:23:14 -->
+<!-- Generated on 2025-10-15 00:24:32 -->
