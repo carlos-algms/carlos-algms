@@ -214,11 +214,11 @@
   <p>
     <a href="https://github.com/yetone/avante.nvim/pull/2760">
         <img
-          src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/pr-open.svg"
+          src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/pr-closed.svg"
           width="20"
           height="20"
-          alt="pr open"
-          title="PR open"
+          alt="pr closed"
+          title="PR closed"
         />
       #2760
     </a>
@@ -559,4 +559,4 @@
     alt="GitHub Commits Graph"
   />
 </a>
-<!-- Generated on 2025-10-15 00:24:32 -->
+<!-- Generated on 2025-10-16 00:24:42 -->
