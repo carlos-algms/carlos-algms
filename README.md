@@ -212,6 +212,22 @@
 <h2>My open-source contributions</h2>
 <h3>Pull-requests</h3>
   <p>
+    <a href="https://github.com/yetone/avante.nvim/pull/2780">
+        <img
+          src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/pr-closed.svg"
+          width="20"
+          height="20"
+          alt="pr closed"
+          title="PR closed"
+        />
+      #2780
+    </a>
+    <b>feat: follow the ACP agent edit and open files automatically</b>
+    <a href="https://github.com/yetone/avante.nvim">
+      yetone/avante.nvim
+    </a>
+  </p>
+  <p>
     <a href="https://github.com/yetone/avante.nvim/pull/2760">
         <img
           src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/pr-closed.svg"
@@ -353,22 +369,6 @@
     <b>Show relative paths when CWD only is enabled for recent files</b>
     <a href="https://github.com/nvimdev/dashboard-nvim">
       nvimdev/dashboard-nvim
-    </a>
-  </p>
-  <p>
-    <a href="https://github.com/blakadder/zigbee/pull/1059">
-        <img
-          src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/pr-closed.svg"
-          width="20"
-          height="20"
-          alt="pr closed"
-          title="PR closed"
-        />
-      #1059
-    </a>
-    <b>Refactor search results page to looks like a normal listing page</b>
-    <a href="https://github.com/blakadder/zigbee">
-      blakadder/zigbee
     </a>
   </p>
 <hr />
@@ -559,4 +559,4 @@
     alt="GitHub Commits Graph"
   />
 </a>
-<!-- Generated on 2025-10-18 00:22:30 -->
+<!-- Generated on 2025-10-19 00:27:13 -->
