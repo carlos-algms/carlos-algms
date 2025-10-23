@@ -246,11 +246,11 @@
   <p>
     <a href="https://github.com/folke/snacks.nvim/pull/2250">
         <img
-          src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/pr-open.svg"
+          src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/pr-closed.svg"
           width="20"
           height="20"
-          alt="pr open"
-          title="PR open"
+          alt="pr closed"
+          title="PR closed"
         />
       #2250
     </a>
@@ -504,11 +504,11 @@
   <p>
     <a href="https://github.com/folke/snacks.nvim/issues/1579">
         <img
-          src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/issue-open.svg"
+          src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/issue-closed.svg"
           width="20"
           height="20"
-          alt="pr open"
-          title="PR open"
+          alt="pr closed"
+          title="PR closed"
         />
       #1579
     </a>
@@ -559,4 +559,4 @@
     alt="GitHub Commits Graph"
   />
 </a>
-<!-- Generated on 2025-10-22 00:25:08 -->
+<!-- Generated on 2025-10-23 00:24:11 -->
