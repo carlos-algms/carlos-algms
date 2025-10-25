@@ -374,6 +374,22 @@
 <hr />
 <h3>Issues opened</h3>
   <p>
+    <a href="https://github.com/yetone/avante.nvim/issues/2797">
+        <img
+          src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/issue-open.svg"
+          width="20"
+          height="20"
+          alt="pr open"
+          title="PR open"
+        />
+      #2797
+    </a>
+    <b>bug: ACP provider doen't seem to have access to @diagnostics</b>
+    <a href="https://github.com/yetone/avante.nvim/issues/2797">
+      yetone/avante.nvim/issues/2797
+    </a>
+  </p>
+  <p>
     <a href="https://github.com/dyoshikawa/rulesync/issues/304">
         <img
           src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/issue-closed.svg"
@@ -517,22 +533,6 @@
       folke/snacks.nvim/issues/1579
     </a>
   </p>
-  <p>
-    <a href="https://github.com/mistweaverco/kulala.nvim/issues/347">
-        <img
-          src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/issue-closed.svg"
-          width="20"
-          height="20"
-          alt="pr closed"
-          title="PR closed"
-        />
-      #347
-    </a>
-    <b>inspect not working: 'width' key must be a positive Integer</b>
-    <a href="https://github.com/mistweaverco/kulala.nvim/issues/347">
-      mistweaverco/kulala.nvim/issues/347
-    </a>
-  </p>
 <p>&nbsp;</p>
 <h2>Badges</h2>
 <a href="http://www.github.com/carlos-algms">
@@ -559,4 +559,4 @@
     alt="GitHub Commits Graph"
   />
 </a>
-<!-- Generated on 2025-10-24 00:22:34 -->
+<!-- Generated on 2025-10-25 00:23:55 -->
