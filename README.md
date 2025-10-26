@@ -212,6 +212,22 @@
 <h2>My open-source contributions</h2>
 <h3>Pull-requests</h3>
   <p>
+    <a href="https://github.com/yetone/avante.nvim/pull/2799">
+        <img
+          src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/pr-open.svg"
+          width="20"
+          height="20"
+          alt="pr open"
+          title="PR open"
+        />
+      #2799
+    </a>
+    <b>fix(acp): improve process cleanup and add type annotations</b>
+    <a href="https://github.com/yetone/avante.nvim">
+      yetone/avante.nvim
+    </a>
+  </p>
+  <p>
     <a href="https://github.com/yetone/avante.nvim/pull/2780">
         <img
           src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/pr-closed.svg"
@@ -353,22 +369,6 @@
     <b>Add keymaps for start, resume, submit and discard Reviews</b>
     <a href="https://github.com/pwntester/octo.nvim">
       pwntester/octo.nvim
-    </a>
-  </p>
-  <p>
-    <a href="https://github.com/nvimdev/dashboard-nvim/pull/416">
-        <img
-          src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/pr-closed.svg"
-          width="20"
-          height="20"
-          alt="pr closed"
-          title="PR closed"
-        />
-      #416
-    </a>
-    <b>Show relative paths when CWD only is enabled for recent files</b>
-    <a href="https://github.com/nvimdev/dashboard-nvim">
-      nvimdev/dashboard-nvim
     </a>
   </p>
 <hr />
@@ -559,4 +559,4 @@
     alt="GitHub Commits Graph"
   />
 </a>
-<!-- Generated on 2025-10-25 00:23:55 -->
+<!-- Generated on 2025-10-26 00:26:19 -->
