@@ -214,11 +214,11 @@
   <p>
     <a href="https://github.com/yetone/avante.nvim/pull/2799">
         <img
-          src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/pr-open.svg"
+          src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/pr-closed.svg"
           width="20"
           height="20"
-          alt="pr open"
-          title="PR open"
+          alt="pr closed"
+          title="PR closed"
         />
       #2799
     </a>
@@ -374,6 +374,22 @@
 <hr />
 <h3>Issues opened</h3>
   <p>
+    <a href="https://github.com/folke/snacks.nvim/issues/2357">
+        <img
+          src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/issue-open.svg"
+          width="20"
+          height="20"
+          alt="pr open"
+          title="PR open"
+        />
+      #2357
+    </a>
+    <b>feature: Pickers history for N previous pickers intead of resuming the most recent one</b>
+    <a href="https://github.com/folke/snacks.nvim/issues/2357">
+      folke/snacks.nvim/issues/2357
+    </a>
+  </p>
+  <p>
     <a href="https://github.com/yetone/avante.nvim/issues/2797">
         <img
           src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/issue-open.svg"
@@ -517,22 +533,6 @@
       RedPlanetHQ/tegon/issues/390
     </a>
   </p>
-  <p>
-    <a href="https://github.com/folke/snacks.nvim/issues/1579">
-        <img
-          src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/issue-closed.svg"
-          width="20"
-          height="20"
-          alt="pr closed"
-          title="PR closed"
-        />
-      #1579
-    </a>
-    <b>bug(picker) LSP pickers fails to resume</b>
-    <a href="https://github.com/folke/snacks.nvim/issues/1579">
-      folke/snacks.nvim/issues/1579
-    </a>
-  </p>
 <p>&nbsp;</p>
 <h2>Badges</h2>
 <a href="http://www.github.com/carlos-algms">
@@ -559,4 +559,4 @@
     alt="GitHub Commits Graph"
   />
 </a>
-<!-- Generated on 2025-10-26 00:26:19 -->
+<!-- Generated on 2025-10-27 00:27:02 -->
