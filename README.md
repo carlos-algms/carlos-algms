@@ -212,6 +212,22 @@
 <h2>My open-source contributions</h2>
 <h3>Pull-requests</h3>
   <p>
+    <a href="https://github.com/single-spa/single-spa/pull/1351">
+        <img
+          src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/pr-open.svg"
+          width="20"
+          height="20"
+          alt="pr open"
+          title="PR open"
+        />
+      #1351
+    </a>
+    <b>fix: convert AppProps to interface and add proper type for singleSpa</b>
+    <a href="https://github.com/single-spa/single-spa">
+      single-spa/single-spa
+    </a>
+  </p>
+  <p>
     <a href="https://github.com/yetone/avante.nvim/pull/2799">
         <img
           src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/pr-closed.svg"
@@ -353,22 +369,6 @@
     <b>[fix] Wrongly tagging PascalCase symbols as types</b>
     <a href="https://github.com/tree-sitter/tree-sitter-typescript">
       tree-sitter/tree-sitter-typescript
-    </a>
-  </p>
-  <p>
-    <a href="https://github.com/pwntester/octo.nvim/pull/498">
-        <img
-          src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/pr-closed.svg"
-          width="20"
-          height="20"
-          alt="pr closed"
-          title="PR closed"
-        />
-      #498
-    </a>
-    <b>Add keymaps for start, resume, submit and discard Reviews</b>
-    <a href="https://github.com/pwntester/octo.nvim">
-      pwntester/octo.nvim
     </a>
   </p>
 <hr />
@@ -559,4 +559,4 @@
     alt="GitHub Commits Graph"
   />
 </a>
-<!-- Generated on 2025-10-30 00:25:35 -->
+<!-- Generated on 2025-10-31 00:24:34 -->
