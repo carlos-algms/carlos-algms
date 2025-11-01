@@ -212,6 +212,22 @@
 <h2>My open-source contributions</h2>
 <h3>Pull-requests</h3>
   <p>
+    <a href="https://github.com/yetone/avante.nvim/pull/2813">
+        <img
+          src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/pr-open.svg"
+          width="20"
+          height="20"
+          alt="pr open"
+          title="PR open"
+        />
+      #2813
+    </a>
+    <b>feat: Add diff preview for ACP prodivers</b>
+    <a href="https://github.com/yetone/avante.nvim">
+      yetone/avante.nvim
+    </a>
+  </p>
+  <p>
     <a href="https://github.com/single-spa/single-spa/pull/1351">
         <img
           src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/pr-open.svg"
@@ -353,22 +369,6 @@
     <b>fix: Events not being triggered on last element deselection</b>
     <a href="https://github.com/simonwep/viselect">
       simonwep/viselect
-    </a>
-  </p>
-  <p>
-    <a href="https://github.com/tree-sitter/tree-sitter-typescript/pull/290">
-        <img
-          src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/pr-closed.svg"
-          width="20"
-          height="20"
-          alt="pr closed"
-          title="PR closed"
-        />
-      #290
-    </a>
-    <b>[fix] Wrongly tagging PascalCase symbols as types</b>
-    <a href="https://github.com/tree-sitter/tree-sitter-typescript">
-      tree-sitter/tree-sitter-typescript
     </a>
   </p>
 <hr />
@@ -559,4 +559,4 @@
     alt="GitHub Commits Graph"
   />
 </a>
-<!-- Generated on 2025-10-31 00:24:34 -->
+<!-- Generated on 2025-11-01 00:27:18 -->
