@@ -212,13 +212,29 @@
 <h2>My open-source contributions</h2>
 <h3>Pull-requests</h3>
   <p>
-    <a href="https://github.com/yetone/avante.nvim/pull/2813">
+    <a href="https://github.com/yetone/avante.nvim/pull/2816">
         <img
           src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/pr-open.svg"
           width="20"
           height="20"
           alt="pr open"
           title="PR open"
+        />
+      #2816
+    </a>
+    <b>feat: Add diff preview for ACP providers</b>
+    <a href="https://github.com/yetone/avante.nvim">
+      yetone/avante.nvim
+    </a>
+  </p>
+  <p>
+    <a href="https://github.com/yetone/avante.nvim/pull/2813">
+        <img
+          src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/pr-closed.svg"
+          width="20"
+          height="20"
+          alt="pr closed"
+          title="PR closed"
         />
       #2813
     </a>
@@ -353,22 +369,6 @@
     <b>fix: use vim.fs.normalize instead of using a helper from lspconfig</b>
     <a href="https://github.com/pmizio/typescript-tools.nvim">
       pmizio/typescript-tools.nvim
-    </a>
-  </p>
-  <p>
-    <a href="https://github.com/simonwep/viselect/pull/239">
-        <img
-          src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/pr-closed.svg"
-          width="20"
-          height="20"
-          alt="pr closed"
-          title="PR closed"
-        />
-      #239
-    </a>
-    <b>fix: Events not being triggered on last element deselection</b>
-    <a href="https://github.com/simonwep/viselect">
-      simonwep/viselect
     </a>
   </p>
 <hr />
@@ -559,4 +559,4 @@
     alt="GitHub Commits Graph"
   />
 </a>
-<!-- Generated on 2025-11-02 00:27:06 -->
+<!-- Generated on 2025-11-03 00:26:23 -->
