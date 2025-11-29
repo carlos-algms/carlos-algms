@@ -6,6 +6,7 @@ import (
 	"fmt"
 	"log"
 	"os"
+	"scraper/pkg/cache"
 	"scraper/pkg/github"
 	"text/template"
 	"time"
@@ -24,6 +25,18 @@ func main() {
 	if err != nil {
 		fmt.Println("Error fetching data:", err)
 		os.Exit(1)
+	}
+
+	cacheHash := cache.ComputeHash(issues, prs)
+
+	const cacheFile = "data.hash"
+	if !cache.HasChanged(cacheHash, cacheFile) {
+		fmt.Println("No changes detected. Skipping update.")
+		os.Exit(0)
+	}
+
+	if err := cache.Save(cacheHash, cacheFile); err != nil {
+		log.Printf("Warning: failed to save cache: %v", err)
 	}
 
 	response := map[string]interface{}{

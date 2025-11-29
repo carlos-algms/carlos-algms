@@ -7,6 +7,7 @@ on:
   push:
     branches:
       - main
+  workflow_dispatch:
 
 jobs:
   build:
@@ -25,18 +26,59 @@ jobs:
         with:
           go-version: '^1.24.1'
 
+      - name: Cache binary
+        id: cache_binary
+        uses: actions/cache@v4
+        with:
+          path: scraper/scraper
+          key: binary-${{ hashFiles('scraper/**/*.go', 'scraper/go.mod', 'scraper/go.sum') }}
+
       - name: Build the Scraper
+        if: steps.cache_binary.outputs.cache-hit != 'true'
         run: make build
+
+      - name: Restore executable permission
+        if: steps.cache_binary.outputs.cache-hit == 'true'
+        run: chmod +x scraper/scraper
+
+      - name: Restore data cache
+        uses: actions/cache@v4
+        with:
+          path: scraper/data.hash
+          key: data-cache-${{ hashFiles('scraper/data.hash') }}
+          restore-keys: |
+            data-cache-
 
       - name: Run Make generate
         run: make generate
 
+      - name: Check for changes
+        id: check_changes
+        run: |
+          if git diff --quiet README.md; then
+            echo "changed=false" >> $GITHUB_OUTPUT
+            echo "No changes detected"
+          else
+            echo "changed=true" >> $GITHUB_OUTPUT
+            echo "Changes detected"
+          fi
+
+      - name: Upload cache artifact
+        if: steps.check_changes.outputs.changed == 'true'
+        uses: actions/upload-artifact@v4
+        with:
+          name: data-cache
+          path: scraper/data.hash
+          retention-days: 90
+
       - name: Configure Git
+        if: steps.check_changes.outputs.changed == 'true'
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
 
       - name: Commit changes
+        if: steps.check_changes.outputs.changed == 'true'
         # env:
         # GITHUB_TOKEN: ${{ secrets.PAT }}
         run: |
