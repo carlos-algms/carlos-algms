@@ -408,11 +408,11 @@
   <p>
     <a href="https://github.com/yetone/avante.nvim/issues/2797">
         <img
-          src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/issue-open.svg"
+          src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/issue-closed.svg"
           width="20"
           height="20"
-          alt="pr open"
-          title="PR open"
+          alt="pr closed"
+          title="PR closed"
         />
       #2797
     </a>
@@ -559,4 +559,4 @@
     alt="GitHub Commits Graph"
   />
 </a>
-<!-- Generated on 2025-11-29 23:28:38 -->
+<!-- Generated on 2025-12-01 00:31:24 -->
