@@ -384,7 +384,7 @@
         />
       #184
     </a>
-    <b>If Codex ACP uses the CLI authentication, why Claude needs API keys?</b>
+    <b>Why Claude needs API keys? If Codex ACP uses the CLI authentication</b>
     <a href="https://github.com/zed-industries/claude-code-acp/issues/184">
       zed-industries/claude-code-acp/issues/184
     </a>
@@ -559,4 +559,4 @@
     alt="GitHub Commits Graph"
   />
 </a>
-<!-- Generated on 2025-12-01 00:31:24 -->
+<!-- Generated on 2025-12-02 00:25:39 -->
