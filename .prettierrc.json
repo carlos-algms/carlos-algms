@@ -36,6 +36,12 @@
         "parser": "html",
         "proseWrap": "always"
       }
+    },
+    {
+      "files": "*.md",
+      "options": {
+        "proseWrap": "always"
+      }
     }
   ]
 }
