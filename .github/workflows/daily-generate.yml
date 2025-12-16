@@ -25,6 +25,7 @@ jobs:
         uses: actions/setup-go@v5
         with:
           go-version: '^1.24.1'
+          cache-dependency-path: scraper/go.sum
 
       - name: Cache binary
         id: cache_binary
@@ -41,13 +42,16 @@ jobs:
         if: steps.cache_binary.outputs.cache-hit == 'true'
         run: chmod +x scraper/scraper
 
-      - name: Restore data cache
+      # Cache data.hash to persist between workflow runs
+      # This hash is generated from GitHub API responses and used to detect if data has changed
+      # Static key ensures cache is restored even when file doesn't exist locally
+      # Cache automatically updates at workflow end when content changes
+      # This prevents unnecessary commits when GitHub API returns identical data
+      - name: Cache Github data hash
         uses: actions/cache@v4
         with:
           path: scraper/data.hash
-          key: data-cache-${{ hashFiles('scraper/data.hash') }}
-          restore-keys: |
-            data-cache-
+          key: data-cache
 
       - name: Run Make generate
         run: make generate
@@ -63,6 +67,7 @@ jobs:
             echo "Changes detected"
           fi
 
+      # Keep this artifact upload - it's for manual inspection via GitHub UI, not related to cache
       - name: Upload cache artifact
         if: steps.check_changes.outputs.changed == 'true'
         uses: actions/upload-artifact@v4
