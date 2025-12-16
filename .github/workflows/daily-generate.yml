@@ -69,7 +69,6 @@ jobs:
 
       # Keep this artifact upload - it's for manual inspection via GitHub UI, not related to cache
       - name: Upload cache artifact
-        if: steps.check_changes.outputs.changed == 'true'
         uses: actions/upload-artifact@v4
         with:
           name: data-cache
