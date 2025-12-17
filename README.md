@@ -374,6 +374,22 @@
 <hr />
 <h3>Issues opened</h3>
   <p>
+    <a href="https://github.com/esmuellert/vscode-diff.nvim/issues/103">
+        <img
+          src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/issue-open.svg"
+          width="20"
+          height="20"
+          alt="pr open"
+          title="PR open"
+        />
+      #103
+    </a>
+    <b>Can the file list be at the bottom instead of Left?</b>
+    <a href="https://github.com/esmuellert/vscode-diff.nvim/issues/103">
+      esmuellert/vscode-diff.nvim/issues/103
+    </a>
+  </p>
+  <p>
     <a href="https://github.com/zed-industries/claude-code-acp/issues/184">
         <img
           src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/issue-closed.svg"
@@ -517,22 +533,6 @@
       eza-community/eza/issues/1494
     </a>
   </p>
-  <p>
-    <a href="https://github.com/single-spa/standalone-single-spa-webpack-plugin/issues/30">
-        <img
-          src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/issue-open.svg"
-          width="20"
-          height="20"
-          alt="pr open"
-          title="PR open"
-        />
-      #30
-    </a>
-    <b>Standalone uses SystemJs even if outputSystemJS is false it also doesn't respect moduleFormat esm</b>
-    <a href="https://github.com/single-spa/standalone-single-spa-webpack-plugin/issues/30">
-      single-spa/standalone-single-spa-webpack-plugin/issues/30
-    </a>
-  </p>
 <p>&nbsp;</p>
 <h2>Badges</h2>
 <a href="http://www.github.com/carlos-algms">
@@ -559,4 +559,4 @@
     alt="GitHub Commits Graph"
   />
 </a>
-<!-- Generated on 2025-12-16 13:21:23 -->
+<!-- Generated on 2025-12-17 00:25:55 -->
