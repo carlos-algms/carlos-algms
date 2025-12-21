@@ -212,6 +212,22 @@
 <h2>My open-source contributions</h2>
 <h3>Pull-requests</h3>
   <p>
+    <a href="https://github.com/rockerBOO/awesome-neovim/pull/2037">
+        <img
+          src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/pr-closed.svg"
+          width="20"
+          height="20"
+          alt="pr closed"
+          title="PR closed"
+        />
+      #2037
+    </a>
+    <b>Add `carlos-algms/agentic.nvim`</b>
+    <a href="https://github.com/rockerBOO/awesome-neovim">
+      rockerBOO/awesome-neovim
+    </a>
+  </p>
+  <p>
     <a href="https://github.com/yetone/avante.nvim/pull/2816">
         <img
           src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/pr-open.svg"
@@ -355,24 +371,24 @@
       mason-org/mason-registry
     </a>
   </p>
-  <p>
-    <a href="https://github.com/pmizio/typescript-tools.nvim/pull/318">
-        <img
-          src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/pr-closed.svg"
-          width="20"
-          height="20"
-          alt="pr closed"
-          title="PR closed"
-        />
-      #318
-    </a>
-    <b>fix: use vim.fs.normalize instead of using a helper from lspconfig</b>
-    <a href="https://github.com/pmizio/typescript-tools.nvim">
-      pmizio/typescript-tools.nvim
-    </a>
-  </p>
 <hr />
 <h3>Issues opened</h3>
+  <p>
+    <a href="https://github.com/blowmage/cursor-agent-acp-npm/issues/35">
+        <img
+          src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/issue-open.svg"
+          width="20"
+          height="20"
+          alt="pr open"
+          title="PR open"
+        />
+      #35
+    </a>
+    <b>Missing tool_call and tool_call_updates</b>
+    <a href="https://github.com/blowmage/cursor-agent-acp-npm/issues/35">
+      blowmage/cursor-agent-acp-npm/issues/35
+    </a>
+  </p>
   <p>
     <a href="https://github.com/esmuellert/vscode-diff.nvim/issues/103">
         <img
@@ -517,22 +533,6 @@
       vlabo/cspell-lsp/issues/14
     </a>
   </p>
-  <p>
-    <a href="https://github.com/eza-community/eza/issues/1494">
-        <img
-          src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/issue-open.svg"
-          width="20"
-          height="20"
-          alt="pr open"
-          title="PR open"
-        />
-      #1494
-    </a>
-    <b>feat:  Provide a dump-theme option so we can invetigate from where styles are applied</b>
-    <a href="https://github.com/eza-community/eza/issues/1494">
-      eza-community/eza/issues/1494
-    </a>
-  </p>
 <p>&nbsp;</p>
 <h2>Badges</h2>
 <a href="http://www.github.com/carlos-algms">
@@ -559,4 +559,4 @@
     alt="GitHub Commits Graph"
   />
 </a>
-<!-- Generated on 2025-12-20 00:25:11 -->
+<!-- Generated on 2025-12-21 00:28:50 -->
