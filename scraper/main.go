@@ -73,8 +73,6 @@ func main() {
 
 	// Github Markdown wasn't rendering HTML tags with empty lines in between
 	content := removeEmptyLines(&baseRendered)
-	currentTime := time.Now().Format("2006-01-02 15:04:05")
-	content = append(content, fmt.Appendf(nil, "\n<!-- Generated on %s -->\n", currentTime)...)
 	err = os.WriteFile("../README.md", content, 0644)
 	if err != nil {
 		log.Fatalf("Error writing to README.md: %v", err)
