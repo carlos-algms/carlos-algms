@@ -9,7 +9,6 @@ import (
 	"scraper/pkg/cache"
 	"scraper/pkg/github"
 	"text/template"
-	"time"
 )
 
 func main() {
