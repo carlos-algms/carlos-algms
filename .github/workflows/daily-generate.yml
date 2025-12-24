@@ -44,15 +44,16 @@ jobs:
 
       # Cache data.hash to persist between workflow runs
       # This hash is generated from GitHub API responses and used to detect if data has changed
-      # Static key ensures cache is restored even when file doesn't exist locally
-      # Using separate restore/save actions to ensure cache is always updated
+      # Using restore-keys fallback to get latest cache, and unique key per run to save updates
       # This prevents unnecessary commits when GitHub API returns identical data
       - name: Restore Github data hash
         id: cache_data_restore
         uses: actions/cache/restore@v4
         with:
           path: scraper/data.hash
-          key: data-cache
+          key: data-cache-${{ github.run_id }}
+          restore-keys: |
+            data-cache-
 
       - name: Run Make generate
         run: make generate
@@ -62,12 +63,19 @@ jobs:
         uses: actions/cache/save@v4
         with:
           path: scraper/data.hash
-          key: data-cache
+          key: data-cache-${{ github.run_id }}
 
       - name: Check for changes and add timestamp
         id: check_changes
+        # Compare README content excluding timestamp comments
         run: |
-          if git diff --quiet README.md; then
+          DIFF_RESULT=$(diff -q \
+            <(grep -v "^<!-- Generated on" README.md) \
+            <(git show HEAD:README.md | grep -v "^<!-- Generated on") \
+            2>&1
+          )
+
+          if [ -z "$DIFF_RESULT" ]; then
             echo "changed=false" >> $GITHUB_OUTPUT
             echo "No changes detected"
           else
