@@ -374,6 +374,22 @@
 <hr />
 <h3>Issues opened</h3>
   <p>
+    <a href="https://github.com/zed-industries/claude-code-acp/issues/225">
+        <img
+          src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/issue-open.svg"
+          width="20"
+          height="20"
+          alt="pr open"
+          title="PR open"
+        />
+      #225
+    </a>
+    <b>claude-code-acp ignores user model configuration from ~/.claude/settings.json</b>
+    <a href="https://github.com/zed-industries/claude-code-acp/issues/225">
+      zed-industries/claude-code-acp/issues/225
+    </a>
+  </p>
+  <p>
     <a href="https://github.com/blowmage/cursor-agent-acp-npm/issues/35">
         <img
           src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/issue-open.svg"
@@ -517,22 +533,6 @@
       mistweaverco/zana-client/issues/3
     </a>
   </p>
-  <p>
-    <a href="https://github.com/vlabo/cspell-lsp/issues/14">
-        <img
-          src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/issue-closed.svg"
-          width="20"
-          height="20"
-          alt="pr closed"
-          title="PR closed"
-        />
-      #14
-    </a>
-    <b>Any plans to be available via Mason?</b>
-    <a href="https://github.com/vlabo/cspell-lsp/issues/14">
-      vlabo/cspell-lsp/issues/14
-    </a>
-  </p>
 <p>&nbsp;</p>
 <h2>Badges</h2>
 <a href="http://www.github.com/carlos-algms">
@@ -558,5 +558,4 @@
     src="https://github-readme-activity-graph.cyclic.app/graph?username=carlos-algms&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph"
     alt="GitHub Commits Graph"
   />
-</a>
-<!-- Generated on 2025-12-24 16:04:57 -->
+</a><!-- Generated on 2025-12-27 09:46:42 -->
