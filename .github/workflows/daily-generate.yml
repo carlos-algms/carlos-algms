@@ -69,13 +69,10 @@ jobs:
         id: check_changes
         # Compare README content excluding timestamp comments
         run: |
-          DIFF_RESULT=$(diff -q \
+          if diff -q \
             <(grep -v "^<!-- Generated on" README.md) \
             <(git show HEAD:README.md | grep -v "^<!-- Generated on") \
-            2>&1
-          )
-
-          if [ -z "$DIFF_RESULT" ]; then
+            > /dev/null 2>&1; then
             echo "changed=false" >> $GITHUB_OUTPUT
             echo "No changes detected"
           else
