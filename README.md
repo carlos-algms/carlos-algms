@@ -406,7 +406,7 @@
     </a>
   </p>
   <p>
-    <a href="https://github.com/esmuellert/vscode-diff.nvim/issues/103">
+    <a href="https://github.com/esmuellert/codediff.nvim/issues/103">
         <img
           src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/issue-closed.svg"
           width="20"
@@ -417,8 +417,8 @@
       #103
     </a>
     <b>Can the file list be at the bottom instead of Left?</b>
-    <a href="https://github.com/esmuellert/vscode-diff.nvim/issues/103">
-      esmuellert/vscode-diff.nvim/issues/103
+    <a href="https://github.com/esmuellert/codediff.nvim/issues/103">
+      esmuellert/codediff.nvim/issues/103
     </a>
   </p>
   <p>
@@ -558,5 +558,4 @@
     src="https://github-readme-activity-graph.cyclic.app/graph?username=carlos-algms&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph"
     alt="GitHub Commits Graph"
   />
-</a>
-<!-- Generated on 2025-12-27 10:01:20 -->
+</a><!-- Generated on 2026-01-08 00:27:36 -->
