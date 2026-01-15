@@ -212,6 +212,22 @@
 <h2>My open-source contributions</h2>
 <h3>Pull-requests</h3>
   <p>
+    <a href="https://github.com/agentclientprotocol/agent-client-protocol/pull/381">
+        <img
+          src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/pr-open.svg"
+          width="20"
+          height="20"
+          alt="pr open"
+          title="PR open"
+        />
+      #381
+    </a>
+    <b>docs: add carlos-algms/agentic.nvim as neovim plugin</b>
+    <a href="https://github.com/agentclientprotocol/agent-client-protocol">
+      agentclientprotocol/agent-client-protocol
+    </a>
+  </p>
+  <p>
     <a href="https://github.com/rockerBOO/awesome-neovim/pull/2037">
         <img
           src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/pr-closed.svg"
@@ -353,22 +369,6 @@
     <b>feat: include hidden files when scanning directories</b>
     <a href="https://github.com/yetone/avante.nvim">
       yetone/avante.nvim
-    </a>
-  </p>
-  <p>
-    <a href="https://github.com/mason-org/mason-registry/pull/10592">
-        <img
-          src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/pr-closed.svg"
-          width="20"
-          height="20"
-          alt="pr closed"
-          title="PR closed"
-        />
-      #10592
-    </a>
-    <b>feat(cspell-lsp): add cspell-lsp</b>
-    <a href="https://github.com/mason-org/mason-registry">
-      mason-org/mason-registry
     </a>
   </p>
 <hr />
@@ -558,4 +558,4 @@
     src="https://github-readme-activity-graph.cyclic.app/graph?username=carlos-algms&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph"
     alt="GitHub Commits Graph"
   />
-</a><!-- Generated on 2026-01-14 00:28:02 -->
+</a><!-- Generated on 2026-01-15 00:25:23 -->
