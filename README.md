@@ -214,11 +214,11 @@
   <p>
     <a href="https://github.com/agentclientprotocol/agent-client-protocol/pull/381">
         <img
-          src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/pr-open.svg"
+          src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/pr-closed.svg"
           width="20"
           height="20"
-          alt="pr open"
-          title="PR open"
+          alt="pr closed"
+          title="PR closed"
         />
       #381
     </a>
@@ -558,4 +558,4 @@
     src="https://github-readme-activity-graph.cyclic.app/graph?username=carlos-algms&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph"
     alt="GitHub Commits Graph"
   />
-</a><!-- Generated on 2026-01-15 00:25:23 -->
+</a><!-- Generated on 2026-01-16 00:27:39 -->
