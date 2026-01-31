@@ -98,6 +98,13 @@
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer" title="React"
   ><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React"
 /></a>
+<a href="https://astro.build/" target="_blank" rel="noreferrer" title="Astro"
+  ><img
+    src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/astro-colored-dark.svg"
+    alt="Astro"
+    width="36"
+    height="36"
+/></a>
 <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer" title="NextJs"
   ><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs.svg" width="36" height="36" alt="NextJs"
 /></a>
@@ -112,6 +119,13 @@
 /></a>
 <a href="https://sass-lang.com/" target="_blank" rel="noreferrer" title="Sass"
   ><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass"
+/></a>
+<a href="https://ui.shadcn.com/" target="_blank" rel="noreferrer" title="Shadcn/ui"
+  ><img
+    src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/shadcnui-colored-dark.svg"
+    alt="Shadcn/ui"
+    width="36"
+    height="36"
 /></a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer" title="TailwindCSS"
   ><img
@@ -130,6 +144,9 @@
 <a href="https://redux.js.org/" target="_blank" rel="noreferrer" title="Redux"
   ><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux"
 /></a>
+<a href="https://vitejs.dev/" target="_blank" rel="noreferrer" title="Vite"
+  ><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" alt="Vite" width="36" height="36"
+/></a>
 <a href="https://webpack.js.org/" target="_blank" rel="noreferrer" title="Webpack"
   ><img
     src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg"
@@ -138,11 +155,14 @@
     alt="Webpack"
 /></a>
 <h4>Backend</h4>
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer" title="NodeJS"
+  ><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS"
+/></a>
 <a href="https://www.php.net/" target="_blank" rel="noreferrer" title="PHP"
   ><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP"
 /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer" title="NodeJS"
-  ><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS"
+<a href="https://lua.org/" target="_blank" rel="noreferrer" title="Lua"
+  ><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/lua-colored.svg" alt="Lua" width="36" height="36"
 /></a>
 <a href="https://graphql.org/" target="_blank" rel="noreferrer" title="GraphQL"
   ><img
@@ -169,6 +189,20 @@
     alt="Wordpress"
 /></a>
 <h4>Cloud</h4>
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer" title="Firebase"
+  ><img
+    src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg"
+    alt="Firebase"
+    width="36"
+    height="36"
+/></a>
+<a href="https://supabase.io/" target="_blank" rel="noreferrer" title="Supabase"
+  ><img
+    src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg"
+    alt="Supabase"
+    width="36"
+    height="36"
+/></a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer" title="Docker"
   ><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker"
 /></a>
@@ -553,4 +587,4 @@
     alt="GitHub Commits Graph"
   />
 </a>
-<!-- Generated on 2026-01-31 13:45:55 -->
+<!-- Generated on 2026-01-31 13:57:01 -->
