@@ -1,9 +1,28 @@
 # AGENTS.md
 
-## Repository Overview
+## Overview
 
-Automated GitHub profile README generator that fetches PRs and issues via GitHub
-API, compares with cached hash, and commits updates only when data changes.
+Automated GitHub profile README generator. Fetches PRs/issues via GitHub API,
+compares with cached hash, commits only when data changes.
+
+## Commands
+
+```bash
+make build     # Compile scraper/main.go → scraper/scraper binary
+make generate  # Run scraper, regenerate README if data changed
+```
+
+Run `make generate` twice to verify stability (second run: "No changes
+detected").
+
+### Debug workflow runs
+
+```bash
+gh run list --workflow=daily-generate.yml --limit 5
+gh run view RUN_ID
+gh run view RUN_ID --log
+gh run view --log  # latest
+```
 
 ## Architecture
 
@@ -11,84 +30,177 @@ API, compares with cached hash, and commits updates only when data changes.
 
 **Entry**: `scraper/main.go`
 
-1. Fetches user's PRs and issues from GitHub API (concurrent requests)
-2. Computes SHA-256 hash from response data
-3. Compares with cached hash in `scraper/data.hash`
-4. If unchanged: exits without generating
-5. If changed: renders HTML templates → writes `README.md` → saves new hash
+Flow:
 
-**Key files**:
+1. Fetch PRs/issues from GitHub API (concurrent)
+2. Compute SHA-256 hash from response
+3. Compare with `scraper/data.hash`
+4. Unchanged → exit
+5. Changed → render templates → write `README.md` → save hash
 
-- `main.go`: Orchestration, template rendering, file writing
-- `pkg/github/search.go`: GitHub API client, concurrent fetching
-- `pkg/cache/cache.go`: SHA-256 hashing, file-based cache comparison
+**Files**:
 
-**Templates**: `scraper/templates/{base,prs,issues}.html` → nested rendering
-into single README
+- `main.go`: orchestration, template rendering, file I/O
+- `pkg/github/seach.go`: GitHub API client
+- `pkg/cache/cache.go`: SHA-256 hashing, cache comparison
 
-### GitHub Actions Pipeline
+**Templates**: `scraper/templates/{base,prs,issues}.html`
+
+**Critical - JSON field selection**:
+
+`Issue` struct uses explicit JSON tags. Only tagged fields unmarshal; others
+silently ignored.
+
+```go
+type Issue struct {
+    Title string `json:"title"`  // parsed
+    State string `json:"state"`  // parsed
+    // updated_at                 // IGNORED
+    // score                      // IGNORED
+}
+```
+
+**Why**: GitHub API returns dynamic fields (`updated_at`, `score`, timestamps)
+that change every request. By only parsing stable fields, hash stays consistent.
+If hash becomes unstable, check for new struct fields capturing dynamic data.
+
+### GitHub Actions
 
 **Workflow**: `.github/workflows/daily-generate.yml`
 
-**Trigger**: Daily at 00:00 UTC, manual dispatch, or push to main
+**Triggers**: Daily on the schedule, manual dispatch, push to main
 
 **Steps**:
 
-1. **Binary cache**: Caches compiled Go binary based on source files hash
+1. **Binary cache**: Cache compiled binary by source hash; restore exec
+   permission on hit
 
-   - Skips rebuild if Go code unchanged
-   - Restores executable permission on cache hit
+2. **Data hash cache**: Restore `scraper/data.hash` from previous run
 
-2. **Data hash cache**: Restores `scraper/data.hash` from previous run
+   - Key: `data-cache-${{ github.run_id }}` (unique per run)
+   - Restore fallback: `restore-keys: data-cache-`
+   - Save: `if: always()` after generation
 
-   - Static key: `data-cache` (simple, single cache entry)
-   - Enables cross-run comparison without GitHub API rate limit waste
-   - Automatically updates at workflow end when content changes
+3. **Generate**: `make generate`; exits early if hash matches
 
-3. **Generate**: Runs scraper via `make generate`
+4. **Diff check**: Compare README excluding timestamps
 
-   - Exits early if hash matches (no API data changes)
-   - Updates README and hash if data changed
+   - Pattern: `grep -v "^<!-- Generated on"` strips timestamp lines
+   - **Critical**: Timestamp MUST start on own line with `<!--`
+   - Uses `diff -q` with process substitution
+   - Timestamp added: `printf '\n<!-- Generated on ...'` (newline prefix
+     required)
 
-4. **Commit check**: Compares `git diff README.md`
+5. **Artifact upload**: Archive `data.hash`
 
-   - Skips commit/push if no changes
+   - **CRITICAL**: Backup for cache recovery if Actions cache expires
+   - Manual inspection via GitHub UI (Summary page)
+   - Never remove this step
 
-5. **Artifact upload**: Archives `data.hash`
-
-   - **CRITICAL**: Backup for cache recovery if Actions cache expires/evicts
-   - Manual inspection via GitHub UI (from previous runs in the Summary page)
-   - Cache can fail, artifacts persist longer
-
-6. **Commit & push**: Automated commit with `[skip ci]` flag if changes to
-   README.md detected
+6. **Commit & push**: Automated commit with `[skip ci]` if README changed
 
 ## Cache Strategy
 
-### Why `data.hash` exists
+### Why `data.hash`
 
-Prevents unnecessary commits when GitHub API returns identical data across runs.
-Without it, every workflow run would regenerate README, even with same content
-because we add timestamps of the last build to the generated template, and it
-create empty commits, or only timestamps, and I don't want that, ONLY actual
-changes in PRs or Issues should trigger a commit.
+Prevents commits when API returns identical data. Without it: every run
+regenerates README (due to build timestamps) → unwanted commits.
 
-### Why cache is necessary
+### Why cache
 
-- Preserves `data.hash` between workflow runs
-- First step in pipeline (runs before scraper)
-- File generated by scraper, doesn't exist in git
-- Without cache: scraper always sees missing hash → always regenerates → always
-  commits
+- Preserves hash between workflow runs
+- File generated by scraper, not in git
+- Without cache: missing hash → always regenerates → always commits (unwanted)
 
-### Why artifact upload is critical
+### Why artifact upload
 
-I want to be able to go to GitHub Actions UI and download it manually in case I
-need. You should never remove the artifact upload step from the pipeline.
+Manual download backup via GitHub UI. Never remove.
 
 ### Cache vs Artifact
 
-- **Cache**: Fast cross-run persistence, automatic restore/save, short TTL, but
-  we run it every day so it should be fine
-- **Artifact**: Long-term backup, manual download, inspection tool, disaster
-  recovery, I want it.
+- **Cache**: Fast, auto restore/save, short TTL (daily runs keep it fresh)
+- **Artifact**: Long-term backup, manual download, disaster recovery
+
+## Two-Layer Change Detection
+
+### Layer 1: Application hash (Go)
+
+**Location**: `scraper/main.go` + `pkg/cache/cache.go`
+
+1. Fetch PRs/Issues
+2. SHA-256 hash from stable fields only
+3. Compare with `scraper/data.hash`
+4. Match → exit ("No changes detected")
+5. Differ → render, write README, save hash
+
+**Purpose**: Skip README generation when data unchanged.
+
+### Layer 2: Workflow diff (Actions)
+
+**Location**: "Check for changes" step
+
+1. Strip timestamp lines from working README and HEAD
+2. `diff -q` stripped content
+3. Identical → skip commit
+4. Different → add timestamp, commit
+
+**Critical**:
+
+- `grep -v "^<!-- Generated on"` requires timestamp at line start
+- Must add with newline: `printf '\n<!-- Generated on...'`
+- Without newline: inline like `</a><!-- Generated...` → pattern fails
+
+**Purpose**: Prevent commits when only timestamp differs.
+
+**Why both layers**:
+
+- Layer 1: Fast exit, saves time, skips template rendering
+- Layer 2: Safety net for edge cases (e.g., hash differs but content identical)
+
+## Debugging
+
+### Workflow commits daily despite no changes
+
+**Symptom**: Commits with only timestamp differences
+
+**Cause**: Timestamp inline, not on own line
+
+**Check**:
+
+```bash
+tail -3 README.md
+# Should be:
+# </a>
+# <!-- Generated on 2026-01-31 12:25:00 -->
+# NOT: </a><!-- Generated on 2026-01-31 12:25:00 -->
+```
+
+**Fix**: Use `printf '\n<!-- Generated on...'` with leading newline
+
+### Generator always regenerates
+
+**Symptom**: `make generate` twice always shows "README.md updated successfully"
+
+**Cause**: Hash includes dynamic fields
+
+**Check**:
+
+```bash
+make generate && cat scraper/data.hash
+make generate && cat scraper/data.hash  # should be identical
+```
+
+**Debug**: Check `pkg/github/seach.go` Issue struct. Only include stable fields.
+
+### Cache not persisting
+
+**Symptom**: "Cache not found" on restore
+
+**Check**:
+
+```bash
+gh run list --workflow=daily-generate.yml --limit 3
+gh run view RUN_ID --log | grep -A 5 "Restore Github data hash"
+```
+
+**Verify**: `restore-keys: data-cache-` allows fallback to any previous cache.
