@@ -78,7 +78,7 @@ jobs:
           else
             echo "changed=true" >> $GITHUB_OUTPUT
             echo "Changes detected"
-            printf '<!-- Generated on %s -->\n' "$(date -u '+%Y-%m-%d %H:%M:%S')" >> README.md
+            printf '\n<!-- Generated on %s -->\n' "$(date -u '+%Y-%m-%d %H:%M:%S')" >> README.md
           fi
 
       # Keep this artifact upload - it's for manual inspection via GitHub UI, not related to cache

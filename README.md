@@ -374,6 +374,22 @@
 <hr />
 <h3>Issues opened</h3>
   <p>
+    <a href="https://github.com/github/copilot-cli/issues/1218">
+        <img
+          src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/issue-open.svg"
+          width="20"
+          height="20"
+          alt="pr open"
+          title="PR open"
+        />
+      #1218
+    </a>
+    <b>copilot --acp doesn't send modes like plan mode, accept edits during initialisation</b>
+    <a href="https://github.com/github/copilot-cli/issues/1218">
+      github/copilot-cli/issues/1218
+    </a>
+  </p>
+  <p>
     <a href="https://github.com/keycastr/keycastr/issues/337">
         <img
           src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/issue-open.svg"
@@ -517,22 +533,6 @@
       yetone/avante.nvim/issues/2689
     </a>
   </p>
-  <p>
-    <a href="https://github.com/neovim/nvim-lspconfig/issues/4023">
-        <img
-          src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/issue-closed.svg"
-          width="20"
-          height="20"
-          alt="pr closed"
-          title="PR closed"
-        />
-      #4023
-    </a>
-    <b>Regression BUG: vim.fs.root crashes with the new table from #4013</b>
-    <a href="https://github.com/neovim/nvim-lspconfig/issues/4023">
-      neovim/nvim-lspconfig/issues/4023
-    </a>
-  </p>
 <p>&nbsp;</p>
 <h2>Badges</h2>
 <a href="http://www.github.com/carlos-algms">
@@ -558,4 +558,5 @@
     src="https://github-readme-activity-graph.cyclic.app/graph?username=carlos-algms&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph"
     alt="GitHub Commits Graph"
   />
-</a><!-- Generated on 2026-01-31 00:30:31 -->
+</a>
+<!-- Generated on 2026-01-31 12:25:00 -->
