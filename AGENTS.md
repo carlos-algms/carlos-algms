@@ -2,8 +2,16 @@
 
 ## Overview
 
-Automated GitHub profile README generator. Fetches PRs/issues via GitHub API,
-compares with cached hash, commits only when data changes.
+Automated **GitHub profile README** generator that populates my GitHub profile
+page (https://github.com/carlos-algms).
+
+**Critical GitHub requirement**: Repository name MUST match my username
+(`carlos-algms`). GitHub automatically displays `README.md` from this special
+repository as my profile page content.
+
+**How it works**: Go scraper fetches PRs/issues via GitHub API, combines HTML
+templates into final `README.md`, compares with cached hash, should commits only
+when data changes.
 
 ## Commands
 
@@ -204,3 +212,4 @@ gh run view RUN_ID --log | grep -A 5 "Restore Github data hash"
 ```
 
 **Verify**: `restore-keys: data-cache-` allows fallback to any previous cache.
+
