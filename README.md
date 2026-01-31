@@ -122,7 +122,7 @@
 /></a>
 <a href="https://ui.shadcn.com/" target="_blank" rel="noreferrer" title="Shadcn/ui"
   ><img
-    src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/shadcnui-colored-dark.svg"
+    src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/shadcnui-colored.svg"
     alt="Shadcn/ui"
     width="36"
     height="36"
@@ -587,4 +587,4 @@
     alt="GitHub Commits Graph"
   />
 </a>
-<!-- Generated on 2026-01-31 13:57:01 -->
+<!-- Generated on 2026-01-31 14:00:23 -->
