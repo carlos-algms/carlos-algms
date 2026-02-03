@@ -448,11 +448,11 @@
   <p>
     <a href="https://github.com/zed-industries/claude-code-acp/issues/225">
         <img
-          src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/issue-open.svg"
+          src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/issue-closed.svg"
           width="20"
           height="20"
-          alt="pr open"
-          title="PR open"
+          alt="pr closed"
+          title="PR closed"
         />
       #225
     </a>
@@ -575,4 +575,4 @@
   </p>
 <hr />
 <p>&nbsp;</p>
-<!-- Generated on 2026-01-31 14:04:05 -->
+<!-- Generated on 2026-02-03 00:34:12 -->
