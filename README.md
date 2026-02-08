@@ -414,6 +414,22 @@
 <hr />
 <h3>Issues opened</h3>
   <p>
+    <a href="https://github.com/zed-industries/claude-code-acp/issues/296">
+        <img
+          src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/issue-open.svg"
+          width="20"
+          height="20"
+          alt="pr open"
+          title="PR open"
+        />
+      #296
+    </a>
+    <b>Internal error: Prompt is too long -32603 - Doesn't it run auto-compact?</b>
+    <a href="https://github.com/zed-industries/claude-code-acp/issues/296">
+      zed-industries/claude-code-acp/issues/296
+    </a>
+  </p>
+  <p>
     <a href="https://github.com/github/copilot-cli/issues/1218">
         <img
           src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/issue-open.svg"
@@ -557,22 +573,6 @@
       dyoshikawa/rulesync/issues/304
     </a>
   </p>
-  <p>
-    <a href="https://github.com/yetone/avante.nvim/issues/2689">
-        <img
-          src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/issue-closed.svg"
-          width="20"
-          height="20"
-          alt="pr closed"
-          title="PR closed"
-        />
-      #2689
-    </a>
-    <b>bug: Claude applies changes directly instead of showing the confirmation and the diff like Copilot</b>
-    <a href="https://github.com/yetone/avante.nvim/issues/2689">
-      yetone/avante.nvim/issues/2689
-    </a>
-  </p>
 <hr />
 <p>&nbsp;</p>
-<!-- Generated on 2026-02-03 00:34:12 -->
+<!-- Generated on 2026-02-08 00:42:24 -->
