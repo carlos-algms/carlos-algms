@@ -414,6 +414,22 @@
 <hr />
 <h3>Issues opened</h3>
   <p>
+    <a href="https://github.com/zed-industries/claude-agent-acp/issues/339">
+        <img
+          src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/issue-open.svg"
+          width="20"
+          height="20"
+          alt="pr open"
+          title="PR open"
+        />
+      #339
+    </a>
+    <b>[BUG] Not sending fs/read_text_file and fs/write_text_file — Possible breaking change?</b>
+    <a href="https://github.com/zed-industries/claude-agent-acp/issues/339">
+      zed-industries/claude-agent-acp/issues/339
+    </a>
+  </p>
+  <p>
     <a href="https://github.com/zed-industries/claude-agent-acp/issues/296">
         <img
           src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/issue-closed.svg"
@@ -557,22 +573,6 @@
       yetone/avante.nvim/issues/2797
     </a>
   </p>
-  <p>
-    <a href="https://github.com/dyoshikawa/rulesync/issues/304">
-        <img
-          src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/issue-closed.svg"
-          width="20"
-          height="20"
-          alt="pr closed"
-          title="PR closed"
-        />
-      #304
-    </a>
-    <b>Support for `--global`</b>
-    <a href="https://github.com/dyoshikawa/rulesync/issues/304">
-      dyoshikawa/rulesync/issues/304
-    </a>
-  </p>
 <hr />
 <p>&nbsp;</p>
-<!-- Generated on 2026-02-21 00:32:05 -->
+<!-- Generated on 2026-02-22 00:33:47 -->
