@@ -416,11 +416,11 @@
   <p>
     <a href="https://github.com/zed-industries/claude-agent-acp/issues/339">
         <img
-          src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/issue-open.svg"
+          src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/issue-closed.svg"
           width="20"
           height="20"
-          alt="pr open"
-          title="PR open"
+          alt="pr closed"
+          title="PR closed"
         />
       #339
     </a>
@@ -575,4 +575,4 @@
   </p>
 <hr />
 <p>&nbsp;</p>
-<!-- Generated on 2026-02-22 00:33:47 -->
+<!-- Generated on 2026-02-24 00:32:02 -->
