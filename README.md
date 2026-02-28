@@ -414,6 +414,22 @@
 <hr />
 <h3>Issues opened</h3>
   <p>
+    <a href="https://github.com/zbirenbaum/copilot.lua/issues/657">
+        <img
+          src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/issue-open.svg"
+          width="20"
+          height="20"
+          alt="pr open"
+          title="PR open"
+        />
+      #657
+    </a>
+    <b>Document for URI could not be found: file:///real/path/file.txt</b>
+    <a href="https://github.com/zbirenbaum/copilot.lua/issues/657">
+      zbirenbaum/copilot.lua/issues/657
+    </a>
+  </p>
+  <p>
     <a href="https://github.com/zed-industries/claude-agent-acp/issues/339">
         <img
           src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/issue-closed.svg"
@@ -557,22 +573,6 @@
       folke/snacks.nvim/issues/2357
     </a>
   </p>
-  <p>
-    <a href="https://github.com/yetone/avante.nvim/issues/2797">
-        <img
-          src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/issue-closed.svg"
-          width="20"
-          height="20"
-          alt="pr closed"
-          title="PR closed"
-        />
-      #2797
-    </a>
-    <b>bug: ACP provider doen't seem to have access to @diagnostics</b>
-    <a href="https://github.com/yetone/avante.nvim/issues/2797">
-      yetone/avante.nvim/issues/2797
-    </a>
-  </p>
 <hr />
 <p>&nbsp;</p>
-<!-- Generated on 2026-02-24 00:32:02 -->
+<!-- Generated on 2026-02-28 00:29:11 -->
