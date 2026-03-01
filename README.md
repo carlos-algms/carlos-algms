@@ -416,11 +416,11 @@
   <p>
     <a href="https://github.com/zbirenbaum/copilot.lua/issues/657">
         <img
-          src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/issue-open.svg"
+          src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/issue-closed.svg"
           width="20"
           height="20"
-          alt="pr open"
-          title="PR open"
+          alt="pr closed"
+          title="PR closed"
         />
       #657
     </a>
@@ -575,4 +575,4 @@
   </p>
 <hr />
 <p>&nbsp;</p>
-<!-- Generated on 2026-02-28 00:29:11 -->
+<!-- Generated on 2026-03-01 00:37:17 -->
