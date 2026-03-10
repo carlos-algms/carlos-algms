@@ -252,6 +252,22 @@
 <h2>My open-source contributions</h2>
 <h3>Pull-requests</h3>
   <p>
+    <a href="https://github.com/agentclientprotocol/agent-client-protocol/pull/707">
+        <img
+          src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/pr-closed.svg"
+          width="20"
+          height="20"
+          alt="pr closed"
+          title="PR closed"
+        />
+      #707
+    </a>
+    <b>docs: Fix typo in config_option_update - should be singular</b>
+    <a href="https://github.com/agentclientprotocol/agent-client-protocol">
+      agentclientprotocol/agent-client-protocol
+    </a>
+  </p>
+  <p>
     <a href="https://github.com/agentclientprotocol/agent-client-protocol/pull/381">
         <img
           src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/pr-closed.svg"
@@ -393,22 +409,6 @@
     <b>fix(picker): allow LSP pickers to resume from anywhere</b>
     <a href="https://github.com/folke/snacks.nvim">
       folke/snacks.nvim
-    </a>
-  </p>
-  <p>
-    <a href="https://github.com/yetone/avante.nvim/pull/2700">
-        <img
-          src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/pr-closed.svg"
-          width="20"
-          height="20"
-          alt="pr closed"
-          title="PR closed"
-        />
-      #2700
-    </a>
-    <b>feat: include hidden files when scanning directories</b>
-    <a href="https://github.com/yetone/avante.nvim">
-      yetone/avante.nvim
     </a>
   </p>
 <hr />
@@ -575,4 +575,4 @@
   </p>
 <hr />
 <p>&nbsp;</p>
-<!-- Generated on 2026-03-01 00:37:17 -->
+<!-- Generated on 2026-03-10 00:29:51 -->
