@@ -430,7 +430,7 @@
     </a>
   </p>
   <p>
-    <a href="https://github.com/zed-industries/claude-agent-acp/issues/339">
+    <a href="https://github.com/agentclientprotocol/claude-agent-acp/issues/339">
         <img
           src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/issue-closed.svg"
           width="20"
@@ -441,12 +441,12 @@
       #339
     </a>
     <b>[BUG] Not sending fs/read_text_file and fs/write_text_file — Possible breaking change?</b>
-    <a href="https://github.com/zed-industries/claude-agent-acp/issues/339">
-      zed-industries/claude-agent-acp/issues/339
+    <a href="https://github.com/agentclientprotocol/claude-agent-acp/issues/339">
+      agentclientprotocol/claude-agent-acp/issues/339
     </a>
   </p>
   <p>
-    <a href="https://github.com/zed-industries/claude-agent-acp/issues/296">
+    <a href="https://github.com/agentclientprotocol/claude-agent-acp/issues/296">
         <img
           src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/issue-closed.svg"
           width="20"
@@ -457,8 +457,8 @@
       #296
     </a>
     <b>Internal error: Prompt is too long -32603 - Doesn't it run auto-compact?</b>
-    <a href="https://github.com/zed-industries/claude-agent-acp/issues/296">
-      zed-industries/claude-agent-acp/issues/296
+    <a href="https://github.com/agentclientprotocol/claude-agent-acp/issues/296">
+      agentclientprotocol/claude-agent-acp/issues/296
     </a>
   </p>
   <p>
@@ -494,7 +494,7 @@
     </a>
   </p>
   <p>
-    <a href="https://github.com/zed-industries/claude-agent-acp/issues/225">
+    <a href="https://github.com/agentclientprotocol/claude-agent-acp/issues/225">
         <img
           src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/issue-closed.svg"
           width="20"
@@ -505,8 +505,8 @@
       #225
     </a>
     <b>claude-code-acp ignores user model configuration from ~/.claude/settings.json</b>
-    <a href="https://github.com/zed-industries/claude-agent-acp/issues/225">
-      zed-industries/claude-agent-acp/issues/225
+    <a href="https://github.com/agentclientprotocol/claude-agent-acp/issues/225">
+      agentclientprotocol/claude-agent-acp/issues/225
     </a>
   </p>
   <p>
@@ -542,7 +542,7 @@
     </a>
   </p>
   <p>
-    <a href="https://github.com/zed-industries/claude-agent-acp/issues/184">
+    <a href="https://github.com/agentclientprotocol/claude-agent-acp/issues/184">
         <img
           src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/issue-closed.svg"
           width="20"
@@ -553,8 +553,8 @@
       #184
     </a>
     <b>Why Claude needs API keys? If Codex ACP uses the CLI authentication</b>
-    <a href="https://github.com/zed-industries/claude-agent-acp/issues/184">
-      zed-industries/claude-agent-acp/issues/184
+    <a href="https://github.com/agentclientprotocol/claude-agent-acp/issues/184">
+      agentclientprotocol/claude-agent-acp/issues/184
     </a>
   </p>
   <p>
@@ -575,4 +575,4 @@
   </p>
 <hr />
 <p>&nbsp;</p>
-<!-- Generated on 2026-03-10 00:29:51 -->
+<!-- Generated on 2026-03-27 00:37:38 -->
