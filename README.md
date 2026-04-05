@@ -414,6 +414,22 @@
 <hr />
 <h3>Issues opened</h3>
   <p>
+    <a href="https://github.com/esmuellert/codediff.nvim/issues/354">
+        <img
+          src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/issue-open.svg"
+          width="20"
+          height="20"
+          alt="pr open"
+          title="PR open"
+        />
+      #354
+    </a>
+    <b>[Feature request] toggle_stage command could move to the next file before staging to avoid losing order</b>
+    <a href="https://github.com/esmuellert/codediff.nvim/issues/354">
+      esmuellert/codediff.nvim/issues/354
+    </a>
+  </p>
+  <p>
     <a href="https://github.com/zbirenbaum/copilot.lua/issues/657">
         <img
           src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/issue-closed.svg"
@@ -557,22 +573,6 @@
       agentclientprotocol/claude-agent-acp/issues/184
     </a>
   </p>
-  <p>
-    <a href="https://github.com/folke/snacks.nvim/issues/2357">
-        <img
-          src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/issue-closed.svg"
-          width="20"
-          height="20"
-          alt="pr closed"
-          title="PR closed"
-        />
-      #2357
-    </a>
-    <b>feature: Pickers history for N previous pickers intead of resuming the most recent one</b>
-    <a href="https://github.com/folke/snacks.nvim/issues/2357">
-      folke/snacks.nvim/issues/2357
-    </a>
-  </p>
 <hr />
 <p>&nbsp;</p>
-<!-- Generated on 2026-03-27 00:37:38 -->
+<!-- Generated on 2026-04-05 00:39:51 -->
