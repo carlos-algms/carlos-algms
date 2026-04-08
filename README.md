@@ -480,11 +480,11 @@
   <p>
     <a href="https://github.com/github/copilot-cli/issues/1218">
         <img
-          src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/issue-open.svg"
+          src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/issue-closed.svg"
           width="20"
           height="20"
-          alt="pr open"
-          title="PR open"
+          alt="pr closed"
+          title="PR closed"
         />
       #1218
     </a>
@@ -575,4 +575,4 @@
   </p>
 <hr />
 <p>&nbsp;</p>
-<!-- Generated on 2026-04-05 00:39:51 -->
+<!-- Generated on 2026-04-08 00:39:13 -->
