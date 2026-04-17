@@ -414,6 +414,22 @@
 <hr />
 <h3>Issues opened</h3>
   <p>
+    <a href="https://github.com/pwntester/octo.nvim/issues/1477">
+        <img
+          src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/issue-open.svg"
+          width="20"
+          height="20"
+          alt="pr open"
+          title="PR open"
+        />
+      #1477
+    </a>
+    <b>Add `show_review_threads` action to review_diff mappings</b>
+    <a href="https://github.com/pwntester/octo.nvim/issues/1477">
+      pwntester/octo.nvim/issues/1477
+    </a>
+  </p>
+  <p>
     <a href="https://github.com/esmuellert/codediff.nvim/issues/354">
         <img
           src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/issue-open.svg"
@@ -557,22 +573,6 @@
       esmuellert/codediff.nvim/issues/103
     </a>
   </p>
-  <p>
-    <a href="https://github.com/agentclientprotocol/claude-agent-acp/issues/184">
-        <img
-          src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/issue-closed.svg"
-          width="20"
-          height="20"
-          alt="pr closed"
-          title="PR closed"
-        />
-      #184
-    </a>
-    <b>Why Claude needs API keys? If Codex ACP uses the CLI authentication</b>
-    <a href="https://github.com/agentclientprotocol/claude-agent-acp/issues/184">
-      agentclientprotocol/claude-agent-acp/issues/184
-    </a>
-  </p>
 <hr />
 <p>&nbsp;</p>
-<!-- Generated on 2026-04-08 00:39:13 -->
+<!-- Generated on 2026-04-17 00:42:44 -->
