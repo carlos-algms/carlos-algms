@@ -396,7 +396,7 @@
     </a>
   </p>
   <p>
-    <a href="https://github.com/folke/snacks.nvim/pull/2250">
+    <a href="https://github.com/yetone/avante.nvim/pull/2700">
         <img
           src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/pr-closed.svg"
           width="20"
@@ -404,11 +404,11 @@
           alt="pr closed"
           title="PR closed"
         />
-      #2250
+      #2700
     </a>
-    <b>fix(picker): allow LSP pickers to resume from anywhere</b>
-    <a href="https://github.com/folke/snacks.nvim">
-      folke/snacks.nvim
+    <b>feat: include hidden files when scanning directories</b>
+    <a href="https://github.com/yetone/avante.nvim">
+      yetone/avante.nvim
     </a>
   </p>
 <hr />
@@ -575,4 +575,4 @@
   </p>
 <hr />
 <p>&nbsp;</p>
-<!-- Generated on 2026-04-17 00:42:44 -->
+<!-- Generated on 2026-04-22 00:40:22 -->
