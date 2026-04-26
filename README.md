@@ -79,182 +79,279 @@
 <h3>Skills</h3>
 <h4>Frontend</h4>
 <p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" title="JavaScript"
-  ><picture><img
-    src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg"
-    width="36"
-    height="36"
-    alt="JavaScript"
-/></picture></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer" title="TypeScript"
-  ><picture><img
-    src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg"
-    width="36"
-    height="36"
-    alt="TypeScript"
-/></picture></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer" title="HTML5"
-  ><picture><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5"
-/></picture></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer" title="React"
-  ><picture><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React"
-/></picture></a>
-<a href="https://astro.build/" target="_blank" rel="noreferrer" title="Astro"
-  ><picture><img
-    src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/astro-colored-dark.svg"
-    alt="Astro"
-    width="36"
-    height="36"
-/></picture></a>
-<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer" title="NextJs"
-  ><picture><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs.svg" width="36" height="36" alt="NextJs"
-/></picture></a>
-<a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer" title="Gatsby"
-  ><picture><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gatsby-colored.svg" width="36" height="36" alt="Gatsby"
-/></picture></a>
-<a href="https://jquery.com/" target="_blank" rel="noreferrer" title="JQuery"
-  ><picture><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery"
-/></picture></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer" title="CSS3"
-  ><picture><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3"
-/></picture></a>
-<a href="https://sass-lang.com/" target="_blank" rel="noreferrer" title="Sass"
-  ><picture><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass"
-/></picture></a>
-<a href="https://ui.shadcn.com/" target="_blank" rel="noreferrer" title="Shadcn/ui"
-  ><picture><img
-    src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/shadcnui-colored.svg"
-    alt="Shadcn/ui"
-    width="36"
-    height="36"
-/></picture></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer" title="TailwindCSS"
-  ><picture><img
-    src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg"
-    width="36"
-    height="36"
-    alt="TailwindCSS"
-/></picture></a>
-<a href="https://mui.com/" target="_blank" rel="noreferrer" title="Material UI"
-  ><picture><img
-    src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg"
-    width="36"
-    height="36"
-    alt="Material UI"
-/></picture></a>
-<a href="https://redux.js.org/" target="_blank" rel="noreferrer" title="Redux"
-  ><picture><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux"
-/></picture></a>
-<a href="https://vitejs.dev/" target="_blank" rel="noreferrer" title="Vite"
-  ><picture><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" alt="Vite" width="36" height="36"
-/></picture></a>
-<a href="https://webpack.js.org/" target="_blank" rel="noreferrer" title="Webpack"
-  ><picture><img
-    src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg"
-    width="36"
-    height="36"
-    alt="Webpack"
-/></picture></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" title="JavaScript"
+    ><picture
+      ><img
+        src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg"
+        width="36"
+        height="36"
+        alt="JavaScript" /></picture
+  ></a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer" title="TypeScript"
+    ><picture
+      ><img
+        src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg"
+        width="36"
+        height="36"
+        alt="TypeScript" /></picture
+  ></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer" title="HTML5"
+    ><picture
+      ><img
+        src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg"
+        width="36"
+        height="36"
+        alt="HTML5" /></picture
+  ></a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer" title="React"
+    ><picture
+      ><img
+        src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg"
+        width="36"
+        height="36"
+        alt="React" /></picture
+  ></a>
+  <a href="https://astro.build/" target="_blank" rel="noreferrer" title="Astro"
+    ><picture
+      ><img
+        src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/astro-colored-dark.svg"
+        alt="Astro"
+        width="36"
+        height="36" /></picture
+  ></a>
+  <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer" title="NextJs"
+    ><picture
+      ><img
+        src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs.svg"
+        width="36"
+        height="36"
+        alt="NextJs" /></picture
+  ></a>
+  <a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer" title="Gatsby"
+    ><picture
+      ><img
+        src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gatsby-colored.svg"
+        width="36"
+        height="36"
+        alt="Gatsby" /></picture
+  ></a>
+  <a href="https://jquery.com/" target="_blank" rel="noreferrer" title="JQuery"
+    ><picture
+      ><img
+        src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg"
+        width="36"
+        height="36"
+        alt="JQuery" /></picture
+  ></a>
+  <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer" title="CSS3"
+    ><picture
+      ><img
+        src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg"
+        width="36"
+        height="36"
+        alt="CSS3" /></picture
+  ></a>
+  <a href="https://sass-lang.com/" target="_blank" rel="noreferrer" title="Sass"
+    ><picture
+      ><img
+        src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg"
+        width="36"
+        height="36"
+        alt="Sass" /></picture
+  ></a>
+  <a href="https://ui.shadcn.com/" target="_blank" rel="noreferrer" title="Shadcn/ui"
+    ><picture
+      ><img
+        src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/shadcnui-colored.svg"
+        alt="Shadcn/ui"
+        width="36"
+        height="36" /></picture
+  ></a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer" title="TailwindCSS"
+    ><picture
+      ><img
+        src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg"
+        width="36"
+        height="36"
+        alt="TailwindCSS" /></picture
+  ></a>
+  <a href="https://mui.com/" target="_blank" rel="noreferrer" title="Material UI"
+    ><picture
+      ><img
+        src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg"
+        width="36"
+        height="36"
+        alt="Material UI" /></picture
+  ></a>
+  <a href="https://redux.js.org/" target="_blank" rel="noreferrer" title="Redux"
+    ><picture
+      ><img
+        src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg"
+        width="36"
+        height="36"
+        alt="Redux" /></picture
+  ></a>
+  <a href="https://vitejs.dev/" target="_blank" rel="noreferrer" title="Vite"
+    ><picture
+      ><img
+        src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg"
+        alt="Vite"
+        width="36"
+        height="36" /></picture
+  ></a>
+  <a href="https://webpack.js.org/" target="_blank" rel="noreferrer" title="Webpack"
+    ><picture
+      ><img
+        src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg"
+        width="36"
+        height="36"
+        alt="Webpack" /></picture
+  ></a>
 </p>
 <h4>Backend</h4>
 <p align="left">
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer" title="NodeJS"
-  ><picture><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS"
-/></picture></a>
-<a href="https://www.php.net/" target="_blank" rel="noreferrer" title="PHP"
-  ><picture><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP"
-/></picture></a>
-<a href="https://lua.org/" target="_blank" rel="noreferrer" title="Lua"
-  ><picture><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/lua-colored.svg" alt="Lua" width="36" height="36"
-/></picture></a>
-<a href="https://graphql.org/" target="_blank" rel="noreferrer" title="GraphQL"
-  ><picture><img
-    src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg"
-    width="36"
-    height="36"
-    alt="GraphQL"
-/></picture></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer" title="MySQL"
-  ><picture><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL"
-/></picture></a>
-<a href="https://laravel.com/" target="_blank" rel="noreferrer" title="Laravel"
-  ><picture><img
-    src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg"
-    width="36"
-    height="36"
-    alt="Laravel"
-/></picture></a>
-<a href="https://wordpress.com" target="_blank" rel="noreferrer" title="Wordpress"
-  ><picture><img
-    src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg"
-    width="36"
-    height="36"
-    alt="Wordpress"
-/></picture></a>
+  <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer" title="NodeJS"
+    ><picture
+      ><img
+        src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg"
+        width="36"
+        height="36"
+        alt="NodeJS" /></picture
+  ></a>
+  <a href="https://www.php.net/" target="_blank" rel="noreferrer" title="PHP"
+    ><picture
+      ><img
+        src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg"
+        width="36"
+        height="36"
+        alt="PHP" /></picture
+  ></a>
+  <a href="https://lua.org/" target="_blank" rel="noreferrer" title="Lua"
+    ><picture
+      ><img
+        src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/lua-colored.svg"
+        alt="Lua"
+        width="36"
+        height="36" /></picture
+  ></a>
+  <a href="https://graphql.org/" target="_blank" rel="noreferrer" title="GraphQL"
+    ><picture
+      ><img
+        src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg"
+        width="36"
+        height="36"
+        alt="GraphQL" /></picture
+  ></a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" title="MySQL"
+    ><picture
+      ><img
+        src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg"
+        width="36"
+        height="36"
+        alt="MySQL" /></picture
+  ></a>
+  <a href="https://laravel.com/" target="_blank" rel="noreferrer" title="Laravel"
+    ><picture
+      ><img
+        src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg"
+        width="36"
+        height="36"
+        alt="Laravel" /></picture
+  ></a>
+  <a href="https://wordpress.com" target="_blank" rel="noreferrer" title="Wordpress"
+    ><picture
+      ><img
+        src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg"
+        width="36"
+        height="36"
+        alt="Wordpress" /></picture
+  ></a>
 </p>
 <h4>Cloud</h4>
 <p align="left">
-<a href="https://supabase.io/" target="_blank" rel="noreferrer" title="Supabase"
-  ><picture><img
-    src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg"
-    alt="Supabase"
-    width="36"
-    height="36"
-/></picture></a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer" title="Firebase"
-  ><picture><img
-    src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg"
-    alt="Firebase"
-    width="36"
-    height="36"
-/></picture></a>
-<a href="https://cloud.google.com/" target="_blank" rel="noreferrer" title="Google Cloud"
-  ><picture><img
-    src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg"
-    width="36"
-    height="36"
-    alt="Google Cloud"
-/></picture></a>
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer" title="Amazon Web Services"
-  ><picture><img
-    src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws.svg"
-    width="36"
-    height="36"
-    alt="Amazon Web Services"
-/></picture></a>
-<a href="https://www.digitalocean.com" target="_blank" rel="noreferrer" title="Digital Ocean"
-  ><picture><img
-    src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/digitalocean-colored.svg"
-    width="36"
-    height="36"
-    alt="Digital Ocean"
-/></picture></a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer" title="Docker"
-  ><picture><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker"
-/></picture></a>
-<a href="https://kubernetes.io/" target="_blank" rel="noreferrer" title="Kubernetes"
-  ><picture><img
-    src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kubernetes-colored.svg"
-    alt="Kubernetes"
-    width="36"
-    height="36"
-/></picture></a>
+  <a href="https://supabase.io/" target="_blank" rel="noreferrer" title="Supabase"
+    ><picture
+      ><img
+        src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg"
+        alt="Supabase"
+        width="36"
+        height="36" /></picture
+  ></a>
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer" title="Firebase"
+    ><picture
+      ><img
+        src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg"
+        alt="Firebase"
+        width="36"
+        height="36" /></picture
+  ></a>
+  <a href="https://cloud.google.com/" target="_blank" rel="noreferrer" title="Google Cloud"
+    ><picture
+      ><img
+        src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg"
+        width="36"
+        height="36"
+        alt="Google Cloud" /></picture
+  ></a>
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer" title="Amazon Web Services"
+    ><picture
+      ><img
+        src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws.svg"
+        width="36"
+        height="36"
+        alt="Amazon Web Services" /></picture
+  ></a>
+  <a href="https://www.digitalocean.com" target="_blank" rel="noreferrer" title="Digital Ocean"
+    ><picture
+      ><img
+        src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/digitalocean-colored.svg"
+        width="36"
+        height="36"
+        alt="Digital Ocean" /></picture
+  ></a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer" title="Docker"
+    ><picture
+      ><img
+        src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg"
+        width="36"
+        height="36"
+        alt="Docker" /></picture
+  ></a>
+  <a href="https://kubernetes.io/" target="_blank" rel="noreferrer" title="Kubernetes"
+    ><picture
+      ><img
+        src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kubernetes-colored.svg"
+        alt="Kubernetes"
+        width="36"
+        height="36" /></picture
+  ></a>
 </p>
 <h4>OS</h4>
 <p align="left">
-<a href="https://www.linux.org" target="_blank" rel="noreferrer" title="Linux"
-  ><picture><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux"
-/></picture></a>
-<a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer" title="Raspberry Pi"
-  ><picture><img
-    src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/raspberrypi-colored.svg"
-    width="36"
-    height="36"
-    alt="Raspberry Pi"
-/></picture></a>
-<a href="https://apple.com" target="_blank" rel="noreferrer" title="MacOS"
-  ><picture><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos.svg" width="36" height="36" alt="MacOS"
-/></picture></a>
+  <a href="https://www.linux.org" target="_blank" rel="noreferrer" title="Linux"
+    ><picture
+      ><img
+        src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg"
+        width="36"
+        height="36"
+        alt="Linux" /></picture
+  ></a>
+  <a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer" title="Raspberry Pi"
+    ><picture
+      ><img
+        src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/raspberrypi-colored.svg"
+        width="36"
+        height="36"
+        alt="Raspberry Pi" /></picture
+  ></a>
+  <a href="https://apple.com" target="_blank" rel="noreferrer" title="MacOS"
+    ><picture
+      ><img
+        src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos.svg"
+        width="36"
+        height="36"
+        alt="MacOS" /></picture
+  ></a>
 </p>
 <p>&nbsp;</p>
 <h2>My open-source contributions</h2>
@@ -523,3 +620,4 @@
 </p>
 <hr />
 <p>&nbsp;</p>
+<!-- Generated on 2026-04-26 15:11:35 -->
