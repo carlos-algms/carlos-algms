@@ -78,6 +78,7 @@
 </p>
 <h3>Skills</h3>
 <h4>Frontend</h4>
+<p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" title="JavaScript"
   ><img
     src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg"
@@ -154,7 +155,9 @@
     height="36"
     alt="Webpack"
 /></a>
+</p>
 <h4>Backend</h4>
+<p align="left">
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer" title="NodeJS"
   ><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS"
 /></a>
@@ -188,7 +191,9 @@
     height="36"
     alt="Wordpress"
 /></a>
+</p>
 <h4>Cloud</h4>
+<p align="left">
 <a href="https://supabase.io/" target="_blank" rel="noreferrer" title="Supabase"
   ><img
     src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg"
@@ -234,7 +239,9 @@
     width="36"
     height="36"
 /></a>
+</p>
 <h4>OS</h4>
+<p align="left">
 <a href="https://www.linux.org" target="_blank" rel="noreferrer" title="Linux"
   ><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux"
 /></a>
@@ -248,331 +255,271 @@
 <a href="https://apple.com" target="_blank" rel="noreferrer" title="MacOS"
   ><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos.svg" width="36" height="36" alt="MacOS"
 /></a>
+</p>
 <p>&nbsp;</p>
 <h2>My open-source contributions</h2>
 <h3>Pull-requests</h3>
-  <p>
-    <a href="https://github.com/agentclientprotocol/agent-client-protocol/pull/707">
-        <img
-          src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/pr-closed.svg"
-          width="20"
-          height="20"
-          alt="pr closed"
-          title="PR closed"
-        />
-      #707
-    </a>
-    <b>docs: Fix typo in config_option_update - should be singular</b>
-    <a href="https://github.com/agentclientprotocol/agent-client-protocol">
-      agentclientprotocol/agent-client-protocol
-    </a>
-  </p>
-  <p>
-    <a href="https://github.com/agentclientprotocol/agent-client-protocol/pull/381">
-        <img
-          src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/pr-closed.svg"
-          width="20"
-          height="20"
-          alt="pr closed"
-          title="PR closed"
-        />
-      #381
-    </a>
-    <b>docs: add carlos-algms/agentic.nvim as neovim plugin</b>
-    <a href="https://github.com/agentclientprotocol/agent-client-protocol">
-      agentclientprotocol/agent-client-protocol
-    </a>
-  </p>
-  <p>
-    <a href="https://github.com/rockerBOO/awesome-neovim/pull/2037">
-        <img
-          src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/pr-closed.svg"
-          width="20"
-          height="20"
-          alt="pr closed"
-          title="PR closed"
-        />
-      #2037
-    </a>
-    <b>Add `carlos-algms/agentic.nvim`</b>
-    <a href="https://github.com/rockerBOO/awesome-neovim">
-      rockerBOO/awesome-neovim
-    </a>
-  </p>
-  <p>
-    <a href="https://github.com/yetone/avante.nvim/pull/2816">
-        <img
-          src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/pr-closed.svg"
-          width="20"
-          height="20"
-          alt="pr closed"
-          title="PR closed"
-        />
-      #2816
-    </a>
-    <b>feat: Add diff preview for ACP providers</b>
-    <a href="https://github.com/yetone/avante.nvim">
-      yetone/avante.nvim
-    </a>
-  </p>
-  <p>
-    <a href="https://github.com/yetone/avante.nvim/pull/2813">
-        <img
-          src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/pr-closed.svg"
-          width="20"
-          height="20"
-          alt="pr closed"
-          title="PR closed"
-        />
-      #2813
-    </a>
-    <b>feat: Add diff preview for ACP prodivers</b>
-    <a href="https://github.com/yetone/avante.nvim">
-      yetone/avante.nvim
-    </a>
-  </p>
-  <p>
-    <a href="https://github.com/single-spa/single-spa/pull/1351">
-        <img
-          src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/pr-open.svg"
-          width="20"
-          height="20"
-          alt="pr open"
-          title="PR open"
-        />
-      #1351
-    </a>
-    <b>fix: convert AppProps to interface and add proper type for singleSpa</b>
-    <a href="https://github.com/single-spa/single-spa">
-      single-spa/single-spa
-    </a>
-  </p>
-  <p>
-    <a href="https://github.com/yetone/avante.nvim/pull/2799">
-        <img
-          src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/pr-closed.svg"
-          width="20"
-          height="20"
-          alt="pr closed"
-          title="PR closed"
-        />
-      #2799
-    </a>
-    <b>fix(acp): improve process cleanup and add type annotations</b>
-    <a href="https://github.com/yetone/avante.nvim">
-      yetone/avante.nvim
-    </a>
-  </p>
-  <p>
-    <a href="https://github.com/yetone/avante.nvim/pull/2780">
-        <img
-          src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/pr-closed.svg"
-          width="20"
-          height="20"
-          alt="pr closed"
-          title="PR closed"
-        />
-      #2780
-    </a>
-    <b>feat: follow the ACP agent edit and open files automatically</b>
-    <a href="https://github.com/yetone/avante.nvim">
-      yetone/avante.nvim
-    </a>
-  </p>
-  <p>
-    <a href="https://github.com/yetone/avante.nvim/pull/2760">
-        <img
-          src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/pr-closed.svg"
-          width="20"
-          height="20"
-          alt="pr closed"
-          title="PR closed"
-        />
-      #2760
-    </a>
-    <b>feat: Allow inline buttons and popup confirmation for both ACP and normal Providers</b>
-    <a href="https://github.com/yetone/avante.nvim">
-      yetone/avante.nvim
-    </a>
-  </p>
-  <p>
-    <a href="https://github.com/yetone/avante.nvim/pull/2700">
-        <img
-          src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/pr-closed.svg"
-          width="20"
-          height="20"
-          alt="pr closed"
-          title="PR closed"
-        />
-      #2700
-    </a>
-    <b>feat: include hidden files when scanning directories</b>
-    <a href="https://github.com/yetone/avante.nvim">
-      yetone/avante.nvim
-    </a>
-  </p>
+<p>
+  <a href="https://github.com/agentclientprotocol/agent-client-protocol/pull/707"><img
+        src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/pr-closed.svg"
+        width="20"
+        height="20"
+        alt="pr closed"
+        title="PR closed"
+      />
+    #707
+  </a>
+  <b>docs: Fix typo in config_option_update - should be singular</b>
+  <a href="https://github.com/agentclientprotocol/agent-client-protocol">agentclientprotocol/agent-client-protocol</a>
+</p>
+<p>
+  <a href="https://github.com/agentclientprotocol/agent-client-protocol/pull/381"><img
+        src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/pr-closed.svg"
+        width="20"
+        height="20"
+        alt="pr closed"
+        title="PR closed"
+      />
+    #381
+  </a>
+  <b>docs: add carlos-algms/agentic.nvim as neovim plugin</b>
+  <a href="https://github.com/agentclientprotocol/agent-client-protocol">agentclientprotocol/agent-client-protocol</a>
+</p>
+<p>
+  <a href="https://github.com/rockerBOO/awesome-neovim/pull/2037"><img
+        src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/pr-closed.svg"
+        width="20"
+        height="20"
+        alt="pr closed"
+        title="PR closed"
+      />
+    #2037
+  </a>
+  <b>Add `carlos-algms/agentic.nvim`</b>
+  <a href="https://github.com/rockerBOO/awesome-neovim">rockerBOO/awesome-neovim</a>
+</p>
+<p>
+  <a href="https://github.com/yetone/avante.nvim/pull/2816"><img
+        src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/pr-closed.svg"
+        width="20"
+        height="20"
+        alt="pr closed"
+        title="PR closed"
+      />
+    #2816
+  </a>
+  <b>feat: Add diff preview for ACP providers</b>
+  <a href="https://github.com/yetone/avante.nvim">yetone/avante.nvim</a>
+</p>
+<p>
+  <a href="https://github.com/yetone/avante.nvim/pull/2813"><img
+        src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/pr-closed.svg"
+        width="20"
+        height="20"
+        alt="pr closed"
+        title="PR closed"
+      />
+    #2813
+  </a>
+  <b>feat: Add diff preview for ACP prodivers</b>
+  <a href="https://github.com/yetone/avante.nvim">yetone/avante.nvim</a>
+</p>
+<p>
+  <a href="https://github.com/single-spa/single-spa/pull/1351"><img
+        src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/pr-open.svg"
+        width="20"
+        height="20"
+        alt="pr open"
+        title="PR open"
+      />
+    #1351
+  </a>
+  <b>fix: convert AppProps to interface and add proper type for singleSpa</b>
+  <a href="https://github.com/single-spa/single-spa">single-spa/single-spa</a>
+</p>
+<p>
+  <a href="https://github.com/yetone/avante.nvim/pull/2799"><img
+        src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/pr-closed.svg"
+        width="20"
+        height="20"
+        alt="pr closed"
+        title="PR closed"
+      />
+    #2799
+  </a>
+  <b>fix(acp): improve process cleanup and add type annotations</b>
+  <a href="https://github.com/yetone/avante.nvim">yetone/avante.nvim</a>
+</p>
+<p>
+  <a href="https://github.com/yetone/avante.nvim/pull/2780"><img
+        src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/pr-closed.svg"
+        width="20"
+        height="20"
+        alt="pr closed"
+        title="PR closed"
+      />
+    #2780
+  </a>
+  <b>feat: follow the ACP agent edit and open files automatically</b>
+  <a href="https://github.com/yetone/avante.nvim">yetone/avante.nvim</a>
+</p>
+<p>
+  <a href="https://github.com/yetone/avante.nvim/pull/2760"><img
+        src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/pr-closed.svg"
+        width="20"
+        height="20"
+        alt="pr closed"
+        title="PR closed"
+      />
+    #2760
+  </a>
+  <b>feat: Allow inline buttons and popup confirmation for both ACP and normal Providers</b>
+  <a href="https://github.com/yetone/avante.nvim">yetone/avante.nvim</a>
+</p>
+<p>
+  <a href="https://github.com/yetone/avante.nvim/pull/2700"><img
+        src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/pr-closed.svg"
+        width="20"
+        height="20"
+        alt="pr closed"
+        title="PR closed"
+      />
+    #2700
+  </a>
+  <b>feat: include hidden files when scanning directories</b>
+  <a href="https://github.com/yetone/avante.nvim">yetone/avante.nvim</a>
+</p>
 <hr />
 <h3>Issues opened</h3>
-  <p>
-    <a href="https://github.com/pwntester/octo.nvim/issues/1477">
-        <img
-          src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/issue-open.svg"
-          width="20"
-          height="20"
-          alt="pr open"
-          title="PR open"
-        />
-      #1477
-    </a>
-    <b>Add `show_review_threads` action to review_diff mappings</b>
-    <a href="https://github.com/pwntester/octo.nvim/issues/1477">
-      pwntester/octo.nvim/issues/1477
-    </a>
-  </p>
-  <p>
-    <a href="https://github.com/esmuellert/codediff.nvim/issues/354">
-        <img
-          src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/issue-open.svg"
-          width="20"
-          height="20"
-          alt="pr open"
-          title="PR open"
-        />
-      #354
-    </a>
-    <b>[Feature request] toggle_stage command could move to the next file before staging to avoid losing order</b>
-    <a href="https://github.com/esmuellert/codediff.nvim/issues/354">
-      esmuellert/codediff.nvim/issues/354
-    </a>
-  </p>
-  <p>
-    <a href="https://github.com/zbirenbaum/copilot.lua/issues/657">
-        <img
-          src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/issue-closed.svg"
-          width="20"
-          height="20"
-          alt="pr closed"
-          title="PR closed"
-        />
-      #657
-    </a>
-    <b>Document for URI could not be found: file:///real/path/file.txt</b>
-    <a href="https://github.com/zbirenbaum/copilot.lua/issues/657">
-      zbirenbaum/copilot.lua/issues/657
-    </a>
-  </p>
-  <p>
-    <a href="https://github.com/agentclientprotocol/claude-agent-acp/issues/339">
-        <img
-          src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/issue-closed.svg"
-          width="20"
-          height="20"
-          alt="pr closed"
-          title="PR closed"
-        />
-      #339
-    </a>
-    <b>[BUG] Not sending fs/read_text_file and fs/write_text_file — Possible breaking change?</b>
-    <a href="https://github.com/agentclientprotocol/claude-agent-acp/issues/339">
-      agentclientprotocol/claude-agent-acp/issues/339
-    </a>
-  </p>
-  <p>
-    <a href="https://github.com/agentclientprotocol/claude-agent-acp/issues/296">
-        <img
-          src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/issue-closed.svg"
-          width="20"
-          height="20"
-          alt="pr closed"
-          title="PR closed"
-        />
-      #296
-    </a>
-    <b>Internal error: Prompt is too long -32603 - Doesn't it run auto-compact?</b>
-    <a href="https://github.com/agentclientprotocol/claude-agent-acp/issues/296">
-      agentclientprotocol/claude-agent-acp/issues/296
-    </a>
-  </p>
-  <p>
-    <a href="https://github.com/github/copilot-cli/issues/1218">
-        <img
-          src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/issue-closed.svg"
-          width="20"
-          height="20"
-          alt="pr closed"
-          title="PR closed"
-        />
-      #1218
-    </a>
-    <b>copilot --acp doesn't send modes like plan mode, accept edits during initialisation</b>
-    <a href="https://github.com/github/copilot-cli/issues/1218">
-      github/copilot-cli/issues/1218
-    </a>
-  </p>
-  <p>
-    <a href="https://github.com/keycastr/keycastr/issues/337">
-        <img
-          src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/issue-open.svg"
-          width="20"
-          height="20"
-          alt="pr open"
-          title="PR open"
-        />
-      #337
-    </a>
-    <b>Default visualiser doesn't work on macOS Tahoe, Svelte works</b>
-    <a href="https://github.com/keycastr/keycastr/issues/337">
-      keycastr/keycastr/issues/337
-    </a>
-  </p>
-  <p>
-    <a href="https://github.com/agentclientprotocol/claude-agent-acp/issues/225">
-        <img
-          src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/issue-closed.svg"
-          width="20"
-          height="20"
-          alt="pr closed"
-          title="PR closed"
-        />
-      #225
-    </a>
-    <b>claude-code-acp ignores user model configuration from ~/.claude/settings.json</b>
-    <a href="https://github.com/agentclientprotocol/claude-agent-acp/issues/225">
-      agentclientprotocol/claude-agent-acp/issues/225
-    </a>
-  </p>
-  <p>
-    <a href="https://github.com/blowmage/cursor-agent-acp-npm/issues/35">
-        <img
-          src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/issue-open.svg"
-          width="20"
-          height="20"
-          alt="pr open"
-          title="PR open"
-        />
-      #35
-    </a>
-    <b>Missing tool_call and tool_call_updates</b>
-    <a href="https://github.com/blowmage/cursor-agent-acp-npm/issues/35">
-      blowmage/cursor-agent-acp-npm/issues/35
-    </a>
-  </p>
-  <p>
-    <a href="https://github.com/esmuellert/codediff.nvim/issues/103">
-        <img
-          src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/issue-closed.svg"
-          width="20"
-          height="20"
-          alt="pr closed"
-          title="PR closed"
-        />
-      #103
-    </a>
-    <b>Can the file list be at the bottom instead of Left?</b>
-    <a href="https://github.com/esmuellert/codediff.nvim/issues/103">
-      esmuellert/codediff.nvim/issues/103
-    </a>
-  </p>
+<p>
+  <a href="https://github.com/pwntester/octo.nvim/issues/1477"><img
+        src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/issue-open.svg"
+        width="20"
+        height="20"
+        alt="issue open"
+        title="Issue open"
+      />
+    #1477
+  </a>
+  <b>Add `show_review_threads` action to review_diff mappings</b>
+  <a href="https://github.com/pwntester/octo.nvim/issues/1477">pwntester/octo.nvim/issues/1477</a>
+</p>
+<p>
+  <a href="https://github.com/esmuellert/codediff.nvim/issues/354"><img
+        src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/issue-open.svg"
+        width="20"
+        height="20"
+        alt="issue open"
+        title="Issue open"
+      />
+    #354
+  </a>
+  <b>[Feature request] toggle_stage command could move to the next file before staging to avoid losing order</b>
+  <a href="https://github.com/esmuellert/codediff.nvim/issues/354">esmuellert/codediff.nvim/issues/354</a>
+</p>
+<p>
+  <a href="https://github.com/zbirenbaum/copilot.lua/issues/657"><img
+        src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/issue-closed.svg"
+        width="20"
+        height="20"
+        alt="issue closed"
+        title="Issue closed"
+      />
+    #657
+  </a>
+  <b>Document for URI could not be found: file:///real/path/file.txt</b>
+  <a href="https://github.com/zbirenbaum/copilot.lua/issues/657">zbirenbaum/copilot.lua/issues/657</a>
+</p>
+<p>
+  <a href="https://github.com/agentclientprotocol/claude-agent-acp/issues/339"><img
+        src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/issue-closed.svg"
+        width="20"
+        height="20"
+        alt="issue closed"
+        title="Issue closed"
+      />
+    #339
+  </a>
+  <b>[BUG] Not sending fs/read_text_file and fs/write_text_file — Possible breaking change?</b>
+  <a href="https://github.com/agentclientprotocol/claude-agent-acp/issues/339">agentclientprotocol/claude-agent-acp/issues/339</a>
+</p>
+<p>
+  <a href="https://github.com/agentclientprotocol/claude-agent-acp/issues/296"><img
+        src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/issue-closed.svg"
+        width="20"
+        height="20"
+        alt="issue closed"
+        title="Issue closed"
+      />
+    #296
+  </a>
+  <b>Internal error: Prompt is too long -32603 - Doesn't it run auto-compact?</b>
+  <a href="https://github.com/agentclientprotocol/claude-agent-acp/issues/296">agentclientprotocol/claude-agent-acp/issues/296</a>
+</p>
+<p>
+  <a href="https://github.com/github/copilot-cli/issues/1218"><img
+        src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/issue-closed.svg"
+        width="20"
+        height="20"
+        alt="issue closed"
+        title="Issue closed"
+      />
+    #1218
+  </a>
+  <b>copilot --acp doesn't send modes like plan mode, accept edits during initialisation</b>
+  <a href="https://github.com/github/copilot-cli/issues/1218">github/copilot-cli/issues/1218</a>
+</p>
+<p>
+  <a href="https://github.com/keycastr/keycastr/issues/337"><img
+        src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/issue-open.svg"
+        width="20"
+        height="20"
+        alt="issue open"
+        title="Issue open"
+      />
+    #337
+  </a>
+  <b>Default visualiser doesn't work on macOS Tahoe, Svelte works</b>
+  <a href="https://github.com/keycastr/keycastr/issues/337">keycastr/keycastr/issues/337</a>
+</p>
+<p>
+  <a href="https://github.com/agentclientprotocol/claude-agent-acp/issues/225"><img
+        src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/issue-closed.svg"
+        width="20"
+        height="20"
+        alt="issue closed"
+        title="Issue closed"
+      />
+    #225
+  </a>
+  <b>claude-code-acp ignores user model configuration from ~/.claude/settings.json</b>
+  <a href="https://github.com/agentclientprotocol/claude-agent-acp/issues/225">agentclientprotocol/claude-agent-acp/issues/225</a>
+</p>
+<p>
+  <a href="https://github.com/blowmage/cursor-agent-acp-npm/issues/35"><img
+        src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/issue-open.svg"
+        width="20"
+        height="20"
+        alt="issue open"
+        title="Issue open"
+      />
+    #35
+  </a>
+  <b>Missing tool_call and tool_call_updates</b>
+  <a href="https://github.com/blowmage/cursor-agent-acp-npm/issues/35">blowmage/cursor-agent-acp-npm/issues/35</a>
+</p>
+<p>
+  <a href="https://github.com/esmuellert/codediff.nvim/issues/103"><img
+        src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/issue-closed.svg"
+        width="20"
+        height="20"
+        alt="issue closed"
+        title="Issue closed"
+      />
+    #103
+  </a>
+  <b>Can the file list be at the bottom instead of Left?</b>
+  <a href="https://github.com/esmuellert/codediff.nvim/issues/103">esmuellert/codediff.nvim/issues/103</a>
+</p>
 <hr />
 <p>&nbsp;</p>
-<!-- Generated on 2026-04-22 00:40:22 -->

@@ -13,6 +13,17 @@ repository as my profile page content.
 templates into final `README.md`, compares with cached hash, should commits only
 when data changes.
 
+## Rules
+
+- **NEVER edit `README.md` directly**. It is generated output. Edit the
+  templates in `scraper/templates/{base,prs,issues}.html` and run
+  `make generate` to regenerate.
+- Templates use Go `text/template` syntax with `{{ .Prs }}` and `{{ .Issues }}`
+  injected by `scraper/main.go` from rendered `prs.html` / `issues.html`.
+- `make generate` only rewrites `README.md` when the API hash changes. To force
+  a regeneration after a template-only change, delete `scraper/data.hash`
+  first.
+
 ## Commands
 
 ```bash
