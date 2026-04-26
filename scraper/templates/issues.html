@@ -2,21 +2,21 @@
 <p>
   <a href="{{ .URL }}">
     {{- if eq .State "closed" -}}
-      <img
+      <picture><img
         src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/issue-closed.svg"
         width="20"
         height="20"
         alt="issue closed"
         title="Issue closed"
-      />
+      /></picture>
     {{- else -}}
-      <img
+      <picture><img
         src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/issue-open.svg"
         width="20"
         height="20"
         alt="issue open"
         title="Issue open"
-      />
+      /></picture>
     {{- end }}
     #{{ .Number }}
   </a>
