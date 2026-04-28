@@ -357,19 +357,6 @@
 <h2>My open-source contributions</h2>
 <h3>Pull-requests</h3>
 <p>
-  <a href="https://github.com/agentclientprotocol/agent-client-protocol/pull/707"><picture><img
-        src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/pr-closed.svg"
-        width="20"
-        height="20"
-        alt="pr closed"
-        title="PR closed"
-      /></picture>
-    #707
-  </a>
-  <b>docs: Fix typo in config_option_update - should be singular</b>
-  <a href="https://github.com/agentclientprotocol/agent-client-protocol">agentclientprotocol/agent-client-protocol</a>
-</p>
-<p>
   <a href="https://github.com/agentclientprotocol/agent-client-protocol/pull/381"><picture><img
         src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/pr-closed.svg"
         width="20"
@@ -448,32 +435,6 @@
   <a href="https://github.com/yetone/avante.nvim">yetone/avante.nvim</a>
 </p>
 <p>
-  <a href="https://github.com/yetone/avante.nvim/pull/2780"><picture><img
-        src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/pr-closed.svg"
-        width="20"
-        height="20"
-        alt="pr closed"
-        title="PR closed"
-      /></picture>
-    #2780
-  </a>
-  <b>feat: follow the ACP agent edit and open files automatically</b>
-  <a href="https://github.com/yetone/avante.nvim">yetone/avante.nvim</a>
-</p>
-<p>
-  <a href="https://github.com/yetone/avante.nvim/pull/2760"><picture><img
-        src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/pr-closed.svg"
-        width="20"
-        height="20"
-        alt="pr closed"
-        title="PR closed"
-      /></picture>
-    #2760
-  </a>
-  <b>feat: Allow inline buttons and popup confirmation for both ACP and normal Providers</b>
-  <a href="https://github.com/yetone/avante.nvim">yetone/avante.nvim</a>
-</p>
-<p>
   <a href="https://github.com/yetone/avante.nvim/pull/2700"><picture><img
         src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/pr-closed.svg"
         width="20"
@@ -485,6 +446,45 @@
   </a>
   <b>feat: include hidden files when scanning directories</b>
   <a href="https://github.com/yetone/avante.nvim">yetone/avante.nvim</a>
+</p>
+<p>
+  <a href="https://github.com/mason-org/mason-registry/pull/10592"><picture><img
+        src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/pr-closed.svg"
+        width="20"
+        height="20"
+        alt="pr closed"
+        title="PR closed"
+      /></picture>
+    #10592
+  </a>
+  <b>feat(cspell-lsp): add cspell-lsp</b>
+  <a href="https://github.com/mason-org/mason-registry">mason-org/mason-registry</a>
+</p>
+<p>
+  <a href="https://github.com/nvimdev/dashboard-nvim/pull/416"><picture><img
+        src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/pr-closed.svg"
+        width="20"
+        height="20"
+        alt="pr closed"
+        title="PR closed"
+      /></picture>
+    #416
+  </a>
+  <b>Show relative paths when CWD only is enabled for recent files</b>
+  <a href="https://github.com/nvimdev/dashboard-nvim">nvimdev/dashboard-nvim</a>
+</p>
+<p>
+  <a href="https://github.com/hexojs/site/pull/460"><picture><img
+        src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/pr-closed.svg"
+        width="20"
+        height="20"
+        alt="pr closed"
+        title="PR closed"
+      /></picture>
+    #460
+  </a>
+  <b>Added Materialize theme</b>
+  <a href="https://github.com/hexojs/site">hexojs/site</a>
 </p>
 <hr />
 <h3>Issues opened</h3>
@@ -620,4 +620,4 @@
 </p>
 <hr />
 <p>&nbsp;</p>
-<!-- Generated on 2026-04-26 15:11:35 -->
+<!-- Generated on 2026-04-28 00:47:57 -->
