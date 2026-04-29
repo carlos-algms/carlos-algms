@@ -474,17 +474,17 @@
   <a href="https://github.com/nvimdev/dashboard-nvim">nvimdev/dashboard-nvim</a>
 </p>
 <p>
-  <a href="https://github.com/hexojs/site/pull/460"><picture><img
+  <a href="https://github.com/nfl/react-gpt/pull/97"><picture><img
         src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/pr-closed.svg"
         width="20"
         height="20"
         alt="pr closed"
         title="PR closed"
       /></picture>
-    #460
+    #97
   </a>
-  <b>Added Materialize theme</b>
-  <a href="https://github.com/hexojs/site">hexojs/site</a>
+  <b>Enable non-personalized Ads to support GDPR compliance </b>
+  <a href="https://github.com/nfl/react-gpt">nfl/react-gpt</a>
 </p>
 <hr />
 <h3>Issues opened</h3>
@@ -620,4 +620,4 @@
 </p>
 <hr />
 <p>&nbsp;</p>
-<!-- Generated on 2026-04-28 00:47:57 -->
+<!-- Generated on 2026-04-29 00:49:21 -->
