@@ -489,6 +489,19 @@
 <hr />
 <h3>Issues opened</h3>
 <p>
+  <a href="https://github.com/agentclientprotocol/claude-agent-acp/issues/623"><picture><img
+        src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/issue-open.svg"
+        width="20"
+        height="20"
+        alt="issue open"
+        title="Issue open"
+      /></picture>
+    #623
+  </a>
+  <b>Subagents do not inherit `CLAUDE.md` / `AGENTS.md` context</b>
+  <a href="https://github.com/agentclientprotocol/claude-agent-acp/issues/623">agentclientprotocol/claude-agent-acp/issues/623</a>
+</p>
+<p>
   <a href="https://github.com/pwntester/octo.nvim/issues/1477"><picture><img
         src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/issue-open.svg"
         width="20"
@@ -605,19 +618,6 @@
   <b>Missing tool_call and tool_call_updates</b>
   <a href="https://github.com/blowmage/cursor-agent-acp-npm/issues/35">blowmage/cursor-agent-acp-npm/issues/35</a>
 </p>
-<p>
-  <a href="https://github.com/esmuellert/codediff.nvim/issues/103"><picture><img
-        src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/issue-closed.svg"
-        width="20"
-        height="20"
-        alt="issue closed"
-        title="Issue closed"
-      /></picture>
-    #103
-  </a>
-  <b>Can the file list be at the bottom instead of Left?</b>
-  <a href="https://github.com/esmuellert/codediff.nvim/issues/103">esmuellert/codediff.nvim/issues/103</a>
-</p>
 <hr />
 <p>&nbsp;</p>
-<!-- Generated on 2026-04-30 00:48:56 -->
+<!-- Generated on 2026-05-03 00:50:24 -->
