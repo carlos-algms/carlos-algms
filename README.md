@@ -581,11 +581,11 @@
 </p>
 <p>
   <a href="https://github.com/keycastr/keycastr/issues/337"><picture><img
-        src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/issue-open.svg"
+        src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/issue-closed.svg"
         width="20"
         height="20"
-        alt="issue open"
-        title="Issue open"
+        alt="issue closed"
+        title="Issue closed"
       /></picture>
     #337
   </a>
@@ -620,4 +620,4 @@
 </p>
 <hr />
 <p>&nbsp;</p>
-<!-- Generated on 2026-05-03 00:50:24 -->
+<!-- Generated on 2026-05-15 00:50:51 -->
