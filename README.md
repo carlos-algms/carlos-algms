@@ -489,6 +489,32 @@
 <hr />
 <h3>Issues opened</h3>
 <p>
+  <a href="https://github.com/zed-industries/codex-acp/issues/290"><picture><img
+        src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/issue-open.svg"
+        width="20"
+        height="20"
+        alt="issue open"
+        title="Issue open"
+      /></picture>
+    #290
+  </a>
+  <b>Bug: search/list/read exec tool calls can complete with empty content when output fallback is skipped</b>
+  <a href="https://github.com/zed-industries/codex-acp/issues/290">zed-industries/codex-acp/issues/290</a>
+</p>
+<p>
+  <a href="https://github.com/zed-industries/codex-acp/issues/289"><picture><img
+        src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/issue-open.svg"
+        width="20"
+        height="20"
+        alt="issue open"
+        title="Issue open"
+      /></picture>
+    #289
+  </a>
+  <b>BUG: Custom prompts are advertised but not available through codex-acp</b>
+  <a href="https://github.com/zed-industries/codex-acp/issues/289">zed-industries/codex-acp/issues/289</a>
+</p>
+<p>
   <a href="https://github.com/agentclientprotocol/claude-agent-acp/issues/623"><picture><img
         src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/issue-open.svg"
         width="20"
@@ -592,32 +618,6 @@
   <b>Default visualiser doesn't work on macOS Tahoe, Svelte works</b>
   <a href="https://github.com/keycastr/keycastr/issues/337">keycastr/keycastr/issues/337</a>
 </p>
-<p>
-  <a href="https://github.com/agentclientprotocol/claude-agent-acp/issues/225"><picture><img
-        src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/issue-closed.svg"
-        width="20"
-        height="20"
-        alt="issue closed"
-        title="Issue closed"
-      /></picture>
-    #225
-  </a>
-  <b>claude-code-acp ignores user model configuration from ~/.claude/settings.json</b>
-  <a href="https://github.com/agentclientprotocol/claude-agent-acp/issues/225">agentclientprotocol/claude-agent-acp/issues/225</a>
-</p>
-<p>
-  <a href="https://github.com/blowmage/cursor-agent-acp-npm/issues/35"><picture><img
-        src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/issue-open.svg"
-        width="20"
-        height="20"
-        alt="issue open"
-        title="Issue open"
-      /></picture>
-    #35
-  </a>
-  <b>Missing tool_call and tool_call_updates</b>
-  <a href="https://github.com/blowmage/cursor-agent-acp-npm/issues/35">blowmage/cursor-agent-acp-npm/issues/35</a>
-</p>
 <hr />
 <p>&nbsp;</p>
-<!-- Generated on 2026-05-15 00:50:51 -->
+<!-- Generated on 2026-05-16 00:48:15 -->
