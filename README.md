@@ -503,11 +503,11 @@
 </p>
 <p>
   <a href="https://github.com/zed-industries/codex-acp/issues/289"><picture><img
-        src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/issue-open.svg"
+        src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/issue-closed.svg"
         width="20"
         height="20"
-        alt="issue open"
-        title="Issue open"
+        alt="issue closed"
+        title="Issue closed"
       /></picture>
     #289
   </a>
@@ -620,4 +620,4 @@
 </p>
 <hr />
 <p>&nbsp;</p>
-<!-- Generated on 2026-05-22 00:54:43 -->
+<!-- Generated on 2026-05-23 00:53:03 -->
