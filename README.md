@@ -489,6 +489,19 @@
 <hr />
 <h3>Issues opened</h3>
 <p>
+  <a href="https://github.com/zed-industries/codex-acp/issues/313"><picture><img
+        src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/issue-open.svg"
+        width="20"
+        height="20"
+        alt="issue open"
+        title="Issue open"
+      /></picture>
+    #313
+  </a>
+  <b>Codex subagents don't report status making the process seems stuck</b>
+  <a href="https://github.com/zed-industries/codex-acp/issues/313">zed-industries/codex-acp/issues/313</a>
+</p>
+<p>
   <a href="https://github.com/zed-industries/codex-acp/issues/290"><picture><img
         src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/issue-open.svg"
         width="20"
@@ -605,19 +618,6 @@
   <b>copilot --acp doesn't send modes like plan mode, accept edits during initialisation</b>
   <a href="https://github.com/github/copilot-cli/issues/1218">github/copilot-cli/issues/1218</a>
 </p>
-<p>
-  <a href="https://github.com/keycastr/keycastr/issues/337"><picture><img
-        src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/issue-closed.svg"
-        width="20"
-        height="20"
-        alt="issue closed"
-        title="Issue closed"
-      /></picture>
-    #337
-  </a>
-  <b>Default visualiser doesn't work on macOS Tahoe, Svelte works</b>
-  <a href="https://github.com/keycastr/keycastr/issues/337">keycastr/keycastr/issues/337</a>
-</p>
 <hr />
 <p>&nbsp;</p>
-<!-- Generated on 2026-05-23 00:53:03 -->
+<!-- Generated on 2026-05-31 00:59:09 -->
