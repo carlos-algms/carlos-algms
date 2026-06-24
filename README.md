@@ -490,11 +490,11 @@
 <h3>Issues opened</h3>
 <p>
   <a href="https://github.com/zed-industries/codex-acp/issues/313"><picture><img
-        src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/issue-open.svg"
+        src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/issue-closed.svg"
         width="20"
         height="20"
-        alt="issue open"
-        title="Issue open"
+        alt="issue closed"
+        title="Issue closed"
       /></picture>
     #313
   </a>
@@ -503,11 +503,11 @@
 </p>
 <p>
   <a href="https://github.com/zed-industries/codex-acp/issues/290"><picture><img
-        src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/issue-open.svg"
+        src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/issue-closed.svg"
         width="20"
         height="20"
-        alt="issue open"
-        title="Issue open"
+        alt="issue closed"
+        title="Issue closed"
       /></picture>
     #290
   </a>
@@ -620,4 +620,4 @@
 </p>
 <hr />
 <p>&nbsp;</p>
-<!-- Generated on 2026-05-31 00:59:09 -->
+<!-- Generated on 2026-06-24 00:52:20 -->
