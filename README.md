@@ -357,6 +357,19 @@
 <h2>My open-source contributions</h2>
 <h3>Pull-requests</h3>
 <p>
+  <a href="https://github.com/folke/snacks.nvim/pull/2898"><picture><img
+        src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/pr-open.svg"
+        width="20"
+        height="20"
+        alt="pr open"
+        title="PR open"
+      /></picture>
+    #2898
+  </a>
+  <b>fix(image.inline): keep placements when find_visible returns no images</b>
+  <a href="https://github.com/folke/snacks.nvim">folke/snacks.nvim</a>
+</p>
+<p>
   <a href="https://github.com/svkozak/pi-acp/pull/42"><picture><img
         src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/pr-open.svg"
         width="20"
@@ -471,19 +484,6 @@
     #2780
   </a>
   <b>feat: follow the ACP agent edit and open files automatically</b>
-  <a href="https://github.com/yetone/avante.nvim">yetone/avante.nvim</a>
-</p>
-<p>
-  <a href="https://github.com/yetone/avante.nvim/pull/2760"><picture><img
-        src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/pr-closed.svg"
-        width="20"
-        height="20"
-        alt="pr closed"
-        title="PR closed"
-      /></picture>
-    #2760
-  </a>
-  <b>feat: Allow inline buttons and popup confirmation for both ACP and normal Providers</b>
   <a href="https://github.com/yetone/avante.nvim">yetone/avante.nvim</a>
 </p>
 <hr />
@@ -620,4 +620,4 @@
 </p>
 <hr />
 <p>&nbsp;</p>
-<!-- Generated on 2026-06-24 00:52:20 -->
+<!-- Generated on 2026-06-29 01:00:07 -->
