@@ -489,6 +489,45 @@
 <hr />
 <h3>Issues opened</h3>
 <p>
+  <a href="https://github.com/herdrdev/herdr/issues/2121"><picture><img
+        src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/issue-closed.svg"
+        width="20"
+        height="20"
+        alt="issue closed"
+        title="Issue closed"
+      /></picture>
+    #2121
+  </a>
+  <b>Neovim undercurl still renders as a plain text-colored underline with Herdr 0.7.5</b>
+  <a href="https://github.com/herdrdev/herdr/issues/2121">herdrdev/herdr/issues/2121</a>
+</p>
+<p>
+  <a href="https://github.com/herdrdev/herdr/issues/2120"><picture><img
+        src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/issue-closed.svg"
+        width="20"
+        height="20"
+        alt="issue closed"
+        title="Issue closed"
+      /></picture>
+    #2120
+  </a>
+  <b>Neovim undercurl still renders as a plain text-colored underline with Herdr 0.7.5</b>
+  <a href="https://github.com/herdrdev/herdr/issues/2120">herdrdev/herdr/issues/2120</a>
+</p>
+<p>
+  <a href="https://github.com/openai/skills/issues/518"><picture><img
+        src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/issue-open.svg"
+        width="20"
+        height="20"
+        alt="issue open"
+        title="Issue open"
+      /></picture>
+    #518
+  </a>
+  <b>skill-creator validator fails when PyYAML is not available globally</b>
+  <a href="https://github.com/openai/skills/issues/518">openai/skills/issues/518</a>
+</p>
+<p>
   <a href="https://github.com/zed-industries/codex-acp/issues/313"><picture><img
         src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/issue-closed.svg"
         width="20"
@@ -579,45 +618,6 @@
   <b>Document for URI could not be found: file:///real/path/file.txt</b>
   <a href="https://github.com/zbirenbaum/copilot.lua/issues/657">zbirenbaum/copilot.lua/issues/657</a>
 </p>
-<p>
-  <a href="https://github.com/agentclientprotocol/claude-agent-acp/issues/339"><picture><img
-        src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/issue-closed.svg"
-        width="20"
-        height="20"
-        alt="issue closed"
-        title="Issue closed"
-      /></picture>
-    #339
-  </a>
-  <b>[BUG] Not sending fs/read_text_file and fs/write_text_file — Possible breaking change?</b>
-  <a href="https://github.com/agentclientprotocol/claude-agent-acp/issues/339">agentclientprotocol/claude-agent-acp/issues/339</a>
-</p>
-<p>
-  <a href="https://github.com/agentclientprotocol/claude-agent-acp/issues/296"><picture><img
-        src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/issue-closed.svg"
-        width="20"
-        height="20"
-        alt="issue closed"
-        title="Issue closed"
-      /></picture>
-    #296
-  </a>
-  <b>Internal error: Prompt is too long -32603 - Doesn't it run auto-compact?</b>
-  <a href="https://github.com/agentclientprotocol/claude-agent-acp/issues/296">agentclientprotocol/claude-agent-acp/issues/296</a>
-</p>
-<p>
-  <a href="https://github.com/github/copilot-cli/issues/1218"><picture><img
-        src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/issue-closed.svg"
-        width="20"
-        height="20"
-        alt="issue closed"
-        title="Issue closed"
-      /></picture>
-    #1218
-  </a>
-  <b>copilot --acp doesn't send modes like plan mode, accept edits during initialisation</b>
-  <a href="https://github.com/github/copilot-cli/issues/1218">github/copilot-cli/issues/1218</a>
-</p>
 <hr />
 <p>&nbsp;</p>
-<!-- Generated on 2026-06-29 01:00:07 -->
+<!-- Generated on 2026-08-01 02:52:48 -->
