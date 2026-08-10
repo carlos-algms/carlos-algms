@@ -357,6 +357,19 @@
 <h2>My open-source contributions</h2>
 <h3>Pull-requests</h3>
 <p>
+  <a href="https://github.com/dlyongemallo/diffview-plus.nvim/pull/300"><picture><img
+        src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/pr-open.svg"
+        width="20"
+        height="20"
+        alt="pr open"
+        title="PR open"
+      /></picture>
+    #300
+  </a>
+  <b>fix(highlight): avoid leaking diff syntax into active buffers</b>
+  <a href="https://github.com/dlyongemallo/diffview-plus.nvim">dlyongemallo/diffview-plus.nvim</a>
+</p>
+<p>
   <a href="https://github.com/folke/snacks.nvim/pull/2898"><picture><img
         src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/pr-open.svg"
         width="20"
@@ -471,19 +484,6 @@
     #2799
   </a>
   <b>fix(acp): improve process cleanup and add type annotations</b>
-  <a href="https://github.com/yetone/avante.nvim">yetone/avante.nvim</a>
-</p>
-<p>
-  <a href="https://github.com/yetone/avante.nvim/pull/2780"><picture><img
-        src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/pr-closed.svg"
-        width="20"
-        height="20"
-        alt="pr closed"
-        title="PR closed"
-      /></picture>
-    #2780
-  </a>
-  <b>feat: follow the ACP agent edit and open files automatically</b>
   <a href="https://github.com/yetone/avante.nvim">yetone/avante.nvim</a>
 </p>
 <hr />
@@ -620,4 +620,4 @@
 </p>
 <hr />
 <p>&nbsp;</p>
-<!-- Generated on 2026-08-01 02:52:48 -->
+<!-- Generated on 2026-08-10 01:51:55 -->
