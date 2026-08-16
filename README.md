@@ -358,11 +358,11 @@
 <h3>Pull-requests</h3>
 <p>
   <a href="https://github.com/dlyongemallo/diffview-plus.nvim/pull/300"><picture><img
-        src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/pr-open.svg"
+        src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/pr-closed.svg"
         width="20"
         height="20"
-        alt="pr open"
-        title="PR open"
+        alt="pr closed"
+        title="PR closed"
       /></picture>
     #300
   </a>
@@ -620,4 +620,4 @@
 </p>
 <hr />
 <p>&nbsp;</p>
-<!-- Generated on 2026-08-10 01:51:55 -->
+<!-- Generated on 2026-08-16 01:20:51 -->
