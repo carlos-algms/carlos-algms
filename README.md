@@ -435,7 +435,7 @@
   <a href="https://github.com/rockerBOO/awesome-neovim">rockerBOO/awesome-neovim</a>
 </p>
 <p>
-  <a href="https://github.com/yetone/avante.nvim/pull/2816"><picture><img
+  <a href="https://github.com/avante-corp/avante.nvim/pull/2816"><picture><img
         src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/pr-closed.svg"
         width="20"
         height="20"
@@ -445,10 +445,10 @@
     #2816
   </a>
   <b>feat: Add diff preview for ACP providers</b>
-  <a href="https://github.com/yetone/avante.nvim">yetone/avante.nvim</a>
+  <a href="https://github.com/avante-corp/avante.nvim">avante-corp/avante.nvim</a>
 </p>
 <p>
-  <a href="https://github.com/yetone/avante.nvim/pull/2813"><picture><img
+  <a href="https://github.com/avante-corp/avante.nvim/pull/2813"><picture><img
         src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/pr-closed.svg"
         width="20"
         height="20"
@@ -458,7 +458,7 @@
     #2813
   </a>
   <b>feat: Add diff preview for ACP prodivers</b>
-  <a href="https://github.com/yetone/avante.nvim">yetone/avante.nvim</a>
+  <a href="https://github.com/avante-corp/avante.nvim">avante-corp/avante.nvim</a>
 </p>
 <p>
   <a href="https://github.com/single-spa/single-spa/pull/1351"><picture><img
@@ -474,7 +474,7 @@
   <a href="https://github.com/single-spa/single-spa">single-spa/single-spa</a>
 </p>
 <p>
-  <a href="https://github.com/yetone/avante.nvim/pull/2799"><picture><img
+  <a href="https://github.com/avante-corp/avante.nvim/pull/2799"><picture><img
         src="https://raw.githubusercontent.com/carlos-algms/carlos-algms/refs/heads/main/images/pr-closed.svg"
         width="20"
         height="20"
@@ -484,7 +484,7 @@
     #2799
   </a>
   <b>fix(acp): improve process cleanup and add type annotations</b>
-  <a href="https://github.com/yetone/avante.nvim">yetone/avante.nvim</a>
+  <a href="https://github.com/avante-corp/avante.nvim">avante-corp/avante.nvim</a>
 </p>
 <hr />
 <h3>Issues opened</h3>
@@ -620,4 +620,4 @@
 </p>
 <hr />
 <p>&nbsp;</p>
-<!-- Generated on 2026-08-16 01:20:51 -->
+<!-- Generated on 2026-08-21 01:19:53 -->
